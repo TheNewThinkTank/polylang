@@ -5,7 +5,7 @@ with open("app/Readme.md", "r") as f:
 
 setup(
     name="polylang",
-    version="0.0.1",
+    version="0.1.0",
     description="Multi language learning app",
     package_dir={"": "app"},
     packages=find_packages(where="app"),
