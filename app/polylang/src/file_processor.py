@@ -23,8 +23,8 @@ def sort_lang_file(lang_file: str) -> dict:
     sorted_data = dict(sorted(data.items()))
 
     for k, v in sorted_data.items():
-        print(k)
-        print(v.get("part-of-speech", "part-of-speech missing!"))
+        # print(k)
+        # print(v.get("part-of-speech", "part-of-speech missing!"))
         for kk, vv in v.items():
             # print(kk)
             # print(vv, type(vv))
@@ -79,7 +79,17 @@ def main() -> None:
         "vocabulary",
     ]
 
-    lang_file = f"assets/english/raw/{lang_files[-1]}.yml"
+    lang_options = [
+        "english",
+        # "french",
+        # "german",
+        # "spanish",
+        # "mandarin",
+                ]
+
+    lang_choice = lang_options[0]
+
+    lang_file = f"app/polylang/assets/{lang_choice}/raw/{lang_files[-1]}.yml"
 
     sorted_data = sort_lang_file(lang_file)
     # pp(sorted_data)

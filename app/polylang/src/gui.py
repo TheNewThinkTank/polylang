@@ -75,8 +75,23 @@ class FlashcardGUI:
         else:
             self.result_label.config(text="Sorry, the correct word is " + self.word + ".", fg="red")
 
-root = tk.Tk()
-flashcard_gui = FlashcardGUI(root)
-root.mainloop()
 
-print("Thank you for using the English Flashcard Program!")
+def main() -> None:
+    lang_options = [
+        "english",
+        # "french",
+        # "german",
+        # "spanish",
+        # "mandarin",
+                ]
+    lang_choice = lang_options[0]
+
+    root = tk.Tk()
+    flashcard_gui = FlashcardGUI(root)
+    root.mainloop()
+
+    print(f"Thank you for using the {lang_choice} Flashcard Program!")
+
+
+if __name__ == "__main__":
+    main()

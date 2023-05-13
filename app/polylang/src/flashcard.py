@@ -10,7 +10,17 @@ lang_files = [
     "vocabulary",
 ]
 
-lang_file = f"assets/english/processed/{lang_files[-1]}.yml"
+lang_options = [
+    "english",
+    # "french",
+    # "german",
+    # "spanish",
+    # "mandarin",
+               ]
+
+lang_choice = lang_options[0]
+
+lang_file = f"app/polylang/assets/{lang_choice}/processed/{lang_files[-1]}.yml"
 
 with open(lang_file, "r") as rf:
     data = yaml.load(rf, Loader=yaml.SafeLoader)
