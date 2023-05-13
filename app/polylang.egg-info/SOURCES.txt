@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+app/polylang/__init__.py
+app/polylang.egg-info/PKG-INFO
+app/polylang.egg-info/SOURCES.txt
+app/polylang.egg-info/dependency_links.txt
+app/polylang.egg-info/requires.txt
+app/polylang.egg-info/top_level.txt
+app/polylang/src/__init__.py
+app/polylang/src/cli.py
+app/polylang/src/file_processor.py
+app/polylang/src/flashcard.py
+app/polylang/src/gui.py
+app/polylang/src/mock_flashcards.py
+app/polylang/src/tmp.py

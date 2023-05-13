@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: polylang
+Version: 0.0.1
+Summary: Multi language learning app
+Home-page: https://github.com/TheNewThinkTank/polylang
+Author: TheNewThinkTank
+Author-email: gcr84@hotmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE
+
+# polylang
+
+A package used for multi language learning
+
+# How to use
+After installing the package use following import:
+
+```Python
+import polylang
+```
+
+Then use following commands:
+
+```Python
+```
