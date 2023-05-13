@@ -1,0 +1,301 @@
+---
+
+decorum:
+  part-of-speech: noun
+  definition: "behaviour in keeping with good taste and propriety."
+
+umpire:
+  part-of-speech: noun
+  definition: |
+    "a person having authority to decide finally a controversy or question between parties:
+    as. : one appointed to decide between disagreeing arbitrators."
+
+arbitrate:
+  part-of-speech: verb
+  definition: (of an independent person or body) reach an authoritative judgement or settlement.
+  example: "the board has the power to arbitrate in disputes"
+
+crux:
+  part-of-speech: noun
+  definition: "a puzzling or difficult problem : an unsolved question"
+
+emancipation:
+  part-of-speech: noun
+  definition: |
+    the fact or process of being set free from legal, social, or political restrictions; liberation
+
+conceited:
+  part-of-speech: adjective
+  definition: excessively proud of oneself; vain.
+
+sprite:
+  part-of-speech: noun
+  definition: a computer graphic which may be moved on-screen and otherwise manipulated as a single entity.
+
+countenance:
+  part-of-speech: noun
+  definition: a person's face or facial expression.
+
+soirée:
+  part-of-speech: noun
+  definition: an evening party or gathering, typically in a private house, for conversation or music.
+
+paramour:
+  part-of-speech: noun
+  definition: a lover, especially the illicit partner of a married person.
+
+excruciating:
+  part-of-speech: adjective
+  definition: intensely painful.
+  example: "excruciating back pain"
+
+etymology:
+  part-of-speech: noun
+  definition: |
+    the study of the origin of words and the way in which their meanings have changed throughout history.
+  example: "the decline of etymology as a linguistic discipline"
+
+percolate:
+  part-of-speech: verb
+  definition: (of a liquid or gas) filter gradually through a porous surface or substance
+
+pageantry:
+  part-of-speech: noun
+  definition: elaborate display or ceremony.
+  example: "the pageantry of George V's jubilee"
+
+ream:
+  part-of-speech: Slang
+  definition: |
+    to scold or reprimand severely (usually followed by out).
+    to cheat; defraud.
+
+derp:
+  part-of-speech: ""
+  definition: |
+    used as a substitute for speech regarded as meaningless or stupid,
+    or to comment on a foolish or stupid action.
+  example: "Lower tax rates and far lower job creation. Derp"
+
+get-up:
+  part-of-speech: noun
+  definition: a style or arrangement of dress, especially an elaborate or unusual one.
+  example: "her ridiculous Cossack's get-up"
+
+hazing:
+  part-of-speech: ""
+  definition: |
+    is any activity expected of someone joining or participating in a group that humiliates,
+    degrades, abuses, or endangers them, regardless of a person's willingness to participate.
+    There are three components that define hazing: It occurs in a group context.
+    Humiliating, degrading, or endangering behavior.
+
+bland:
+  part-of-speech: adjective
+  definition: lacking strong features or characteristics and therefore uninteresting.
+  example: "bland, mass-produced pop music"
+
+innocuous:
+  part-of-speech: adjective
+  definition: not harmful or offensive.
+  example: "it was an innocuous question"
+
+euphemism:
+  part-of-speech: noun
+  definition: |
+    a mild or indirect word or expression substituted for one considered to be too harsh
+    or blunt when referring to something unpleasant or embarrassing.
+  example: "the jargon has given us 'downsizing' as a euphemism for cuts"
+
+sordid:
+  part-of-speech: adjective
+  definition: |
+    involving immoral or dishonourable actions and motives;
+    arousing moral distaste and contempt.
+  example: "the story paints a sordid picture of bribes and scams"
+
+squalid:
+  part-of-speech: adjective
+  definition_1: (of a place) extremely dirty and unpleasant, especially as a result of poverty or neglect.
+  example_1: "the squalid, overcrowded prison"
+  definition_2: showing or involving a contemptible lack of moral standards.
+  example_2: "a squalid attempt to save themselves from electoral embarrassment"
+
+cretin:
+  part-of-speech: noun (DEROGATORY - INFORMAL)
+  definition: a stupid person (used as a general term of abuse).
+
+insatiable:
+  part-of-speech: adjective
+  definition_1: (of an appetite or desire) impossible to satisfy.
+  example_1: "an insatiable hunger for success"
+  definition_2: |
+    (of a person) having an insatiable appetite or desire for something,
+    especially sex.
+  example_2: "'You're insatiable!' she cried as she pushed him away"
+
+demise:
+  part-of-speech: noun
+  definition: a person's death.
+  example: "Mr Grisenthwaite's tragic demise"
+
+exacerbate:
+  part-of-speech: verb
+  definition: make (a problem, bad situation, or negative feeling) worse.
+  example: "the exorbitant cost of land in urban areas only exacerbated the problem"
+
+exorbitant:
+  part-of-speech: adjective
+  definition: (of a price or amount charged) unreasonably high.
+  example: "some hotels charge exorbitant rates for phone calls"
+
+ostracize:
+  part-of-speech: verb
+  definition: exclude from a society or group.
+  example: "she was declared a witch and ostracized by the villagers"
+
+balkanize:
+  part-of-speech: verb
+  definition: divide (a region or body) into smaller mutually hostile states or groups.
+  example: "ambitious neighbours would snatch pieces of territory, Balkanizing the country"
+
+haphazardly:
+  part-of-speech: adverb
+  definition: in a manner lacking any obvious principle of organization.
+  example: "a hodgepodge of family photos haphazardly arranged on a table"
+
+hodgepodge:
+  part-of-speech: noun (NORTH AMERICAN)
+  definition: a confused mixture; a hotchpotch.
+  example: "Rob's living room was a hodgepodge of modern furniture and antiques"
+
+willy-nilly:
+  part-of-speech: adverb
+  definition: whether one likes it or not.
+  example: "he would be forced to collaborate willy-nilly"
+
+odious:
+  part-of-speech: adjective
+  definition: extremely unpleasant; repulsive.
+  example: "a pretty odious character"
+
+wield:
+  part-of-speech: verb
+  definition: hold and use (a weapon or tool).
+  example: "a masked raider wielding a handgun"
+
+condominium:
+  definition: |
+    A condominium (or condo for short) is an ownership regime in which a building
+    (or group of buildings) is divided into multiple units
+    that are either each separately owned,
+    or owned in common with exclusive rights of occupation by individual owners.
+
+epistolary:
+  part-of-speech: adjective
+  definition: (of a literary work) in the form of letters.
+  example: "an epistolary novel"
+
+liaison:
+  part-of-speech: noun
+  definition: |
+    communication or cooperation which facilitates a close working relationship
+    between people or organizations.
+  example: "the head porter works in close liaison with the reception office"
+
+proverbial:
+  part-of-speech: adjective
+  definition: (of a word or phrase) referred to in a proverb or idiom.
+  example: "I'm going to stick out like the proverbial sore thumb"
+
+proverb:
+  part-of-speech: noun
+  definition: a short, well-known pithy saying, stating a general truth or piece of advice.
+
+pithy:
+  part-of-speech: adjective
+  definition: (of language or style) terse and vigorously expressive.
+  example: "his characteristically pithy comments"
+
+idiom:
+  part-of-speech: noun
+  definition: |
+    a group of words established by usage as having a meaning
+    not deducible from those of the individual words
+  example: over the moon, see the light
+
+draconian:
+  part-of-speech: adjective
+  definition: (of laws or their application) excessively harsh and severe.
+  example: the Nazis destroyed the independence of the press by a series of draconian laws
+
+patriarchy:
+  part-of-speech: noun
+  definition: |
+    a system of society or government in which the father or eldest male is head of the family
+    and descent is reckoned through the male line.
+  example: |
+    the thematic relationships of the ballad are worked out
+    according to the conventional archetypes of the patriarchy
+
+impervious:
+  part-of-speech: adjective
+  definition: unable to be affected by
+  example: "he worked, apparently impervious to the heat"
+
+rapunzeled:
+  part-of-speech: ""
+  definition: To be lifted off the ground by one's hair
+  example: During the Rapture, it is said that the believers will be rapunzeled into the air by Jesus Christ himself.
+
+crony:
+  part-of-speech: noun
+  definition: a close friend or companion.
+  example: "he went gambling with his cronies"
+
+derogatory:
+  part-of-speech: adjective
+  definition: showing a critical or disrespectful attitude.
+  example: "she tells me I'm fat and is always making derogatory remarks"
+
+trailblazer:
+  part-of-speech: noun
+  definition: a person who is the first to do something; an innovator.
+  example: "he was a trailblazer for many ideas that are now standard fare"
+
+enthrall:
+  part-of-speech: verb
+  definition: capture the fascinated attention of.
+  example: "she had been so enthralled by the adventure that she had hardly noticed the cold"
+
+quintessential:
+  part-of-speech: adjective
+  definition: representing the most perfect or typical example of a quality or class.
+  example: "he was the quintessential tough guy—strong, silent, and self-contained"
+
+onus:
+  part-of-speech: noun
+  definition: something that is one's duty or responsibility.
+  example: "the onus is on you to show that you have suffered loss"
+
+moonlight:
+  part-of-speech: verb
+  definition: have a second job, typically secretly and at night, in addition to one's regular employment.
+  example: "he had been moonlighting for a rival tabloid"
+
+double whammy:
+  part-of-speech: noun
+  definition: a twofold blow or setback.
+  example: "a double whammy of taxation and price increases"
+
+protagonist:
+  part-of-speech: noun
+  definition: the leading character or one of the major characters in a play, film, novel, etc.
+  example: "the novel's main protagonist is an American intelligence officer"
+
+enmesh:
+  verb
+  cause to become entangled in something.
+  "whales enmeshed in drift nets"
+  involve (someone) in a difficult situation from which it is hard to escape.
+  "he is enmeshed in an adulterous affair"
