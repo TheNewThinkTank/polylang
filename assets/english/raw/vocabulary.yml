@@ -294,8 +294,6 @@ protagonist:
   example: "the novel's main protagonist is an American intelligence officer"
 
 enmesh:
-  verb
-  cause to become entangled in something.
-  "whales enmeshed in drift nets"
-  involve (someone) in a difficult situation from which it is hard to escape.
-  "he is enmeshed in an adulterous affair"
+  part-of-speech: verb
+  definition: cause to become entangled in something.
+  example: "whales enmeshed in drift nets"

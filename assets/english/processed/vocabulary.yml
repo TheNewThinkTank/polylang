@@ -50,6 +50,10 @@ derp:
     to comment on a foolish or stupid action.
   example: Lower tax rates and far lower job creation. Derp
   part-of-speech: ''
+double whammy:
+  definition: a twofold blow or setback.
+  example: a double whammy of taxation and price increases
+  part-of-speech: noun
 draconian:
   definition: (of laws or their application) excessively harsh and severe.
   example: the Nazis destroyed the independence of the press by a series of draconian
@@ -59,6 +63,15 @@ emancipation:
   definition: the fact or process of being set free from legal, social, or political
     restrictions; liberation
   part-of-speech: noun
+enmesh:
+  definition: cause to become entangled in something.
+  example: whales enmeshed in drift nets
+  part-of-speech: verb
+enthrall:
+  definition: capture the fascinated attention of.
+  example: she had been so enthralled by the adventure that she had hardly noticed
+    the cold
+  part-of-speech: verb
 epistolary:
   definition: (of a literary work) in the form of letters.
   example: an epistolary novel
@@ -129,10 +142,19 @@ liaison:
     people or organizations.
   example: the head porter works in close liaison with the reception office
   part-of-speech: noun
+moonlight:
+  definition: have a second job, typically secretly and at night, in addition to one's
+    regular employment.
+  example: he had been moonlighting for a rival tabloid
+  part-of-speech: verb
 odious:
   definition: extremely unpleasant; repulsive.
   example: a pretty odious character
   part-of-speech: adjective
+onus:
+  definition: something that is one's duty or responsibility.
+  example: the onus is on you to show that you have suffered loss
+  part-of-speech: noun
 ostracize:
   definition: exclude from a society or group.
   example: she was declared a witch and ostracized by the villagers
@@ -157,6 +179,11 @@ pithy:
   definition: (of language or style) terse and vigorously expressive.
   example: his characteristically pithy comments
   part-of-speech: adjective
+protagonist:
+  definition: the leading character or one of the major characters in a play, film,
+    novel, etc.
+  example: the novel's main protagonist is an American intelligence officer
+  part-of-speech: noun
 proverb:
   definition: a short, well-known pithy saying, stating a general truth or piece of
     advice.
@@ -164,6 +191,10 @@ proverb:
 proverbial:
   definition: (of a word or phrase) referred to in a proverb or idiom.
   example: I'm going to stick out like the proverbial sore thumb
+  part-of-speech: adjective
+quintessential:
+  definition: representing the most perfect or typical example of a quality or class.
+  example: "he was the quintessential tough guy\u2014strong, silent, and self-contained"
   part-of-speech: adjective
 rapunzeled:
   definition: To be lifted off the ground by one's hair
@@ -193,6 +224,10 @@ squalid:
   example_1: the squalid, overcrowded prison
   example_2: a squalid attempt to save themselves from electoral embarrassment
   part-of-speech: adjective
+trailblazer:
+  definition: a person who is the first to do something; an innovator.
+  example: he was a trailblazer for many ideas that are now standard fare
+  part-of-speech: noun
 umpire:
   definition: '"a person having authority to decide finally a controversy or question
     between parties:as. : one appointed to decide between disagreeing arbitrators."'

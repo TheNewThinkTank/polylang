@@ -23,8 +23,8 @@ def sort_lang_file(lang_file: str) -> dict:
     sorted_data = dict(sorted(data.items()))
 
     for k, v in sorted_data.items():
-        # print(k)
-        # print(v.get("part-of-speech", "part-of-speech missing!"))
+        print(k)
+        print(v.get("part-of-speech", "part-of-speech missing!"))
         for kk, vv in v.items():
             # print(kk)
             # print(vv, type(vv))
@@ -79,14 +79,14 @@ def main() -> None:
         "vocabulary",
     ]
 
-    lang_file = f"language/raw/{lang_files[-1]}.yml"
+    lang_file = f"assets/english/raw/{lang_files[-1]}.yml"
 
     sorted_data = sort_lang_file(lang_file)
     # pp(sorted_data)
 
     parts = lang_file.split('/')
 
-    out_file = parts[0] + "/processed/" + parts[-1]
+    out_file = parts[0] + "/" + parts[1] + "/processed/" + parts[-1]
 
 
     write_sorted_to_file(lang_file, sorted_data, out_file)

@@ -9,7 +9,8 @@ lang_files = [
     "common_phrases",
     "vocabulary",
 ]
-lang_file = f"language/processed/{lang_files[-1]}.yml"
+
+lang_file = f"assets/english/processed/{lang_files[-1]}.yml"
 
 with open(lang_file, "r") as rf:
     data = yaml.load(rf, Loader=yaml.SafeLoader)
