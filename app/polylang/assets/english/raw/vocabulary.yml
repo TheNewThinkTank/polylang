@@ -297,3 +297,22 @@ enmesh:
   part-of-speech: verb
   definition: cause to become entangled in something.
   example: "whales enmeshed in drift nets"
+
+invaluable:
+  part-of-speech: adjective
+  definition: extremely useful; indispensable.
+  example: "an invaluable source of information"
+
+conglomerate:
+  part-of-speech: noun
+  definition: a thing consisting of a number of different and distinct parts or items that are grouped together.
+  example: "the Earth is a specialized conglomerate of organisms"
+
+AWOL:
+  part-of-speech: adjective
+  definition: absent without official leave but without intent to desert.
+  example: "we not only dealt with the enemy but with servicemen who had gone AWOL"
+
+Panpsychism:
+  part-of-speech: noun
+  definition: the doctrine or belief that everything material, however small, has an element of individual consciousness.
