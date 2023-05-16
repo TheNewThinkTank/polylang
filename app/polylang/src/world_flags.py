@@ -6,8 +6,7 @@ from PIL import Image, ImageTk
 from urllib.request import urlopen
 from io import BytesIO
 
-# from svglib.svglib import svg2rlg
-# from reportlab.graphics import renderPM
+import cairosvg
 
 
 def main() -> None:
@@ -24,23 +23,38 @@ def main() -> None:
 
     url = URLs["england"]
 
-    root = Tk()
+    # Convert SVG to PNG
+    cairosvg.svg2png(url='path/to/file.svg', write_to='path/to/output.png'
+                     )
+
+    # root = Tk()
     
-    # Download the image of the English flag from Wikipedia
-    with urlopen(url) as u:
-        raw_data = u.read()
+    # # Download the image of the English flag from Wikipedia
+    # with urlopen(url) as u:
+    #     raw_data = u.read()
     
-    # Convert the raw image data to a PIL image object
-    england_flag_image = Image.open(BytesIO(raw_data))
+    # # print(type(raw_data), raw_data)
+
+    # # img = BytesIO(raw_data)
+    # # print(type(img), img)
+
+    # orig = Image.new(mode='RGBA', size=(240, 60))
+    # stream = BytesIO(raw_data)  # BytesIO()
+    # orig.save(stream, "PNG")
+    # new = Image.open(stream)
+
+    # # Convert the raw image data to a PIL image object
+    # # england_flag_image = Image.open(BytesIO(raw_data))
+    # england_flag_image = new
+
+    # # # Convert the PIL image to a Tkinter-compatible object
+    # england_flag_tk = ImageTk.PhotoImage(england_flag_image)
+
+    # # Create a label to display the image
+    # flag_label = Label(root, image=england_flag_tk)
+    # flag_label.pack()
     
-    # Convert the PIL image to a Tkinter-compatible object
-    england_flag_tk = ImageTk.PhotoImage(england_flag_image)
-    
-    # Create a label to display the image
-    flag_label = Label(root, image=england_flag_tk)
-    flag_label.pack()
-    
-    root.mainloop()
+    # root.mainloop()
 
 
 if __name__ == "__main__":

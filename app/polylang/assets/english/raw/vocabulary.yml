@@ -316,3 +316,23 @@ AWOL:
 Panpsychism:
   part-of-speech: noun
   definition: the doctrine or belief that everything material, however small, has an element of individual consciousness.
+
+vis-à-vis:
+  part-of-speech: preposition
+  definition: in relation to; with regard to.
+  example: "many agencies now have a unit to deal with women's needs vis-à-vis employment"
+
+slouch:
+  part-of-speech: verb
+  definition: stand, move, or sit in a lazy, drooping way.
+  example: "he slouched against the wall"
+
+desist:
+  part-of-speech: verb
+  definition: stop doing something; cease or abstain.
+  example: "each pledged to desist from acts of sabotage"
+
+harangue:
+  part-of-speech: noun
+  definition: a lengthy and aggressive speech.
+  example: "they were subjected to a ten-minute harangue by two border guards"
