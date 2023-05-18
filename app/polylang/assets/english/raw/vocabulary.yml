@@ -358,3 +358,7 @@ quine:
     Quines are possible in any Turing-complete programming language,
     as a direct consequence of Kleene's recursion theorem.
   example: ""
+
+debauchery:
+  part-of-speech: noun
+  definition: excessive indulgence in sex, alcohol, or drugs.
