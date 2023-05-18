@@ -336,3 +336,25 @@ harangue:
   part-of-speech: noun
   definition: a lengthy and aggressive speech.
   example: "they were subjected to a ten-minute harangue by two border guards"
+
+inflection point:
+  part-of-speech: ""
+  definition: |
+    In differential calculus and differential geometry,
+    an inflection point, point of inflection, flex, or inflection
+    is a point on a smooth plane curve at which the curvature changes sign
+  example: ""
+
+slouch:
+  part-of-speech: verb
+  definition: stand, move, or sit in a lazy, drooping way.
+  example: "he slouched against the wall"
+
+quine:
+  part-of-speech: ""
+  definition: |
+    A quine is a fixed point of an execution environment,
+    when the execution environment is viewed as a function transforming programs into their outputs.
+    Quines are possible in any Turing-complete programming language,
+    as a direct consequence of Kleene's recursion theorem.
+  example: ""
