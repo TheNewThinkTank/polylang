@@ -362,3 +362,14 @@ quine:
 debauchery:
   part-of-speech: noun
   definition: excessive indulgence in sex, alcohol, or drugs.
+  example: ""
+
+malleable:
+  part-of-speech: adjective
+  definition: easily influenced; pliable.
+  example: "they are as malleable and easily led as sheep"
+
+disparate:
+  part-of-speech: adjective
+  definition: essentially different in kind; not able to be compared.
+  example: "they inhabit disparate worlds of thought"
