@@ -373,3 +373,43 @@ disparate:
   part-of-speech: adjective
   definition: essentially different in kind; not able to be compared.
   example: "they inhabit disparate worlds of thought"
+
+monasticism:
+  part-of-speech: noun
+  definition: a religious way of life in which one renounces worldly pursuits to devote oneself fully to spiritual work
+  example: ""
+
+secularity:
+  part-of-speech: noun
+  definition: the state of being unrelated or neutral in regards to religion
+  example: ""
+
+benefactor:
+  part-of-speech: noun
+  definition: a person who gives money or other help to a person or cause.
+  example: "a low-interest loan from a benefactor allowed them to build a floor for the exhibition hall"
+
+benevolence:
+  part-of-speech: noun
+  definition: the quality of being well meaning; kindness.
+
+
+unrequited:
+  part-of-speech: adjective
+  definition: (of a feeling, especially love) not returned.
+  example: "he's been pining with unrequited love"
+
+pine:
+  part-of-speech: verb
+  definition: suffer a mental and physical decline, especially because of a broken heart.
+  example: "she thinks I am pining away from love"
+
+accolade:
+  part-of-speech: noun
+  definition: an expression of praise or admiration.
+  example: "poignant accolades and urgent testimonials of thanks"
+
+poignant:
+  part-of-speech: adjective
+  definition: evoking a keen sense of sadness or regret.
+  example: "a poignant reminder of the passing of time"

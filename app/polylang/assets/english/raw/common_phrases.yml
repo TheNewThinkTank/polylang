@@ -1,21 +1,29 @@
 ---
 
-one fell swoop: |
-  with a single, quick action or effort.
-  The court has dismissed all of the charges against him in one fell swoop.
+one fell swoop:
+  part-of-speech: ""
+  definition: with a single, quick action or effort.
+  example: The court has dismissed all of the charges against him in one fell swoop.
 
-septum piercing: |
-  "A septum piercing is a piercing through the connective tissue below the cartilage of the nasal septum.
-  The name derives from the Latin term for these: septum nasi.
-  It is one of the oldest piercings and is traditionally found in many cultures around the world."
+septum piercing:
+  part-of-speech: ""
+  definition: |
+    "A septum piercing is a piercing through the connective tissue below the cartilage of the nasal septum.
+    The name derives from the Latin term for these: septum nasi.
+    It is one of the oldest piercings and is traditionally found in many cultures around the world."
+  example: ""
 
-bum-rush: |
-  verb
-  suddenly force or barge one's way into.
-  "fans bum-rushed record stores"
+bum-rush:
+  part-of-speech: verb
+  definition: suddenly force or barge one's way into.
+  example: "fans bum-rushed record stores"
 
-Part of speech: |
-  In grammar, a part of speech or part-of-speech is a category of words that have similar grammatical properties.
+Part of speech:
+  definition: In grammar, a part of speech or part-of-speech is a category of words that have similar grammatical properties.
 
 lover's spat:
   definition: describes a minor squabble between a couple.
+
+up the ante:
+  definition: increase what is at stake or under discussion, especially in a conflict or dispute.
+  example: "he decided to up the ante in the trade war"
