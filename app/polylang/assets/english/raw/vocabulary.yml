@@ -428,5 +428,20 @@ accolade:
 
 poignant:
   part-of-speech: adjective
-  definition: evoking a keen sense of sadness or regret.
-  example: "a poignant reminder of the passing of time"
+  definition: evoking a keen sense of sadness or regret
+  example: a poignant reminder of the passing of time
+
+countenance:
+  part-of-speech: noun
+  definition: support or approval
+  example: she was giving her specific countenance to the occasion
+
+exorbitant:
+  part-of-speech: adjective
+  definition: (of a price or amount charged) unreasonably high
+  example: some hotels charge exorbitant rates for phone calls
+
+modality:
+  part-of-speech: noun
+  definition: a particular mode in which something exists or is experienced or expressed.
+  example: ""

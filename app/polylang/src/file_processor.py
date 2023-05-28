@@ -6,6 +6,7 @@ import yaml
 
 # TODO: handle single and double quotes
 # TODO: add pipe (|) before multiline strings
+# TODO: strip final dot from word definition and from word example
 
 
 def sort_lang_file(lang_file: str) -> dict:
