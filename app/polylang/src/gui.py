@@ -25,9 +25,12 @@ class FlashcardGUI:
     """_summary_
     """
 
-    def __init__(self, master):
+    def __init__(self, lang_choice, master):
         self.master = master
-        master.title("English Flashcards")
+
+        self.lang_choice = lang_choice
+
+        master.title(f"{self.lang_choice.title()} Flashcards")
 
         self.definition_label = tk.Label(master, text="Definition")
         self.definition_label.pack()
@@ -73,24 +76,29 @@ class FlashcardGUI:
         if guess == self.word:
             self.result_label.config(text="Correct! Good job!", fg="green")
         else:
-            self.result_label.config(text="Sorry, the correct word is " + self.word + ".", fg="red")
+            self.result_label.config(text=f"Sorry, the correct word is {self.word}.", fg="red")
+    
+    # def __call__(self):
+    # root = tk.Tk()
+    # flashcard_gui = self(root)
+    # root.mainloop()
 
 
 def main() -> None:
     lang_options = [
         "english",
         # "french",
-        # "german",
+        "german",
         # "spanish",
         # "mandarin",
                 ]
-    lang_choice = lang_options[0]
+    lang_choice = lang_options[1]
 
     root = tk.Tk()
-    flashcard_gui = FlashcardGUI(root)
+    flashcard_gui = FlashcardGUI(lang_choice, root)
     root.mainloop()
 
-    print(f"Thank you for using the {lang_choice} Flashcard Program!")
+    print(f"Thank you for using the {lang_choice.title()} Flashcard Program!")
 
 
 if __name__ == "__main__":

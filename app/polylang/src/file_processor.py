@@ -17,7 +17,7 @@ def sort_lang_file(lang_file: str) -> dict:
     :rtype: dict
     """
 
-    with open(lang_file, "r") as rf:
+    with open(lang_file, "r", encoding="utf-8") as rf:
         data = yaml.load(rf, Loader=yaml.SafeLoader)
 
     sorted_data = dict(sorted(data.items()))
@@ -82,12 +82,12 @@ def main() -> None:
     lang_options = [
         "english",
         # "french",
-        # "german",
+        "german",
         # "spanish",
         # "mandarin",
                 ]
 
-    lang_choice = lang_options[0]
+    lang_choice = lang_options[1]
 
     lang_file = f"app/polylang/assets/{lang_choice}/raw/{lang_files[-1]}.yml"
 
@@ -96,7 +96,7 @@ def main() -> None:
 
     parts = lang_file.split('/')
 
-    out_file = parts[0] + "/" + parts[1] + "/processed/" + parts[-1]
+    out_file = parts[0] + "/" + parts[1] + "/" + parts[2] + "/" + parts[3] + "/processed/" + parts[-1]
 
 
     write_sorted_to_file(lang_file, sorted_data, out_file)

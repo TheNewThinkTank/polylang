@@ -3,12 +3,14 @@
 decorum:
   part-of-speech: noun
   definition: "behaviour in keeping with good taste and propriety."
+  example: ""
 
 umpire:
   part-of-speech: noun
   definition: |
     "a person having authority to decide finally a controversy or question between parties:
     as. : one appointed to decide between disagreeing arbitrators."
+  example: ""
 
 arbitrate:
   part-of-speech: verb
@@ -18,31 +20,38 @@ arbitrate:
 crux:
   part-of-speech: noun
   definition: "a puzzling or difficult problem : an unsolved question"
+  example: ""
 
 emancipation:
   part-of-speech: noun
   definition: |
     the fact or process of being set free from legal, social, or political restrictions; liberation
+  example: ""
 
 conceited:
   part-of-speech: adjective
   definition: excessively proud of oneself; vain.
+  example: ""
 
 sprite:
   part-of-speech: noun
   definition: a computer graphic which may be moved on-screen and otherwise manipulated as a single entity.
+  example: ""
 
 countenance:
   part-of-speech: noun
   definition: a person's face or facial expression.
+  example: ""
 
 soirée:
   part-of-speech: noun
   definition: an evening party or gathering, typically in a private house, for conversation or music.
+  example: ""
 
 paramour:
   part-of-speech: noun
   definition: a lover, especially the illicit partner of a married person.
+  example: ""
 
 excruciating:
   part-of-speech: adjective
@@ -58,6 +67,7 @@ etymology:
 percolate:
   part-of-speech: verb
   definition: (of a liquid or gas) filter gradually through a porous surface or substance
+  example: ""
 
 pageantry:
   part-of-speech: noun
@@ -69,6 +79,7 @@ ream:
   definition: |
     to scold or reprimand severely (usually followed by out).
     to cheat; defraud.
+  example: ""
 
 derp:
   part-of-speech: ""
@@ -89,6 +100,7 @@ hazing:
     degrades, abuses, or endangers them, regardless of a person's willingness to participate.
     There are three components that define hazing: It occurs in a group context.
     Humiliating, degrading, or endangering behavior.
+  example: ""
 
 bland:
   part-of-speech: adjective
@@ -124,6 +136,7 @@ squalid:
 cretin:
   part-of-speech: noun (DEROGATORY - INFORMAL)
   definition: a stupid person (used as a general term of abuse).
+  example: ""
 
 insatiable:
   part-of-speech: adjective
@@ -185,11 +198,13 @@ wield:
   example: "a masked raider wielding a handgun"
 
 condominium:
+  part-of-speech: noun
   definition: |
     A condominium (or condo for short) is an ownership regime in which a building
     (or group of buildings) is divided into multiple units
     that are either each separately owned,
     or owned in common with exclusive rights of occupation by individual owners.
+  example: ""
 
 epistolary:
   part-of-speech: adjective
@@ -211,6 +226,7 @@ proverbial:
 proverb:
   part-of-speech: noun
   definition: a short, well-known pithy saying, stating a general truth or piece of advice.
+  example: ""
 
 pithy:
   part-of-speech: adjective
@@ -316,6 +332,7 @@ AWOL:
 Panpsychism:
   part-of-speech: noun
   definition: the doctrine or belief that everything material, however small, has an element of individual consciousness.
+  example: ""
 
 vis-à-vis:
   part-of-speech: preposition
@@ -392,7 +409,7 @@ benefactor:
 benevolence:
   part-of-speech: noun
   definition: the quality of being well meaning; kindness.
-
+  example: ""
 
 unrequited:
   part-of-speech: adjective
