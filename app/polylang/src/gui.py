@@ -1,5 +1,11 @@
 """_summary_
 
+examples:
+python3 app/polylang/src/gui.py -l english
+python3 app/polylang/src/gui.py --language english
+python3 app/polylang/src/gui.py -l german
+python3 app/polylang/src/gui.py --language german
+
 Installing TKinter: `brew install python-tk@<PYTHON_VERSION>`
 e.g. for Python 3.11:
 brew install python-tk@3.11
@@ -12,6 +18,7 @@ brew install python-tk@3.11
 # TODO: add feature: allow the user to add their own flashcards
 # TODO: add feature: support for additional languages
 
+import argparse
 import random
 
 import tkinter as tk
@@ -92,7 +99,14 @@ def main() -> None:
         # "spanish",
         # "mandarin",
                 ]
-    lang_choice = lang_options[1]
+
+    # lang_choice = lang_options[1]
+    # lang_choice = input("Specify the language for practice (english/french)")
+
+    parser = argparse.ArgumentParser(description='Language Learning Program')
+    parser.add_argument('-l', '--language', type=str, help='Specify the language for practice (english / german)')
+    args = parser.parse_args()
+    lang_choice = args.language
 
     root = tk.Tk()
     flashcard_gui = FlashcardGUI(lang_choice, root)
