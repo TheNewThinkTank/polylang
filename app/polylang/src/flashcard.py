@@ -13,13 +13,13 @@ lang_files = [
     "vocabulary",
 ]
 
-lang_options = [
-    "english",
-    # "french",
-    "german",
-    # "spanish",
-    # "mandarin",
-               ]
+# lang_options = [
+#     "english",
+#     # "french",
+#     "german",
+#     # "spanish",
+#     # "mandarin",
+#                ]
 
 # lang_choice = lang_options[1]
 

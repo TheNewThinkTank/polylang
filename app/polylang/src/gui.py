@@ -92,13 +92,14 @@ class FlashcardGUI:
 
 
 def main() -> None:
-    lang_options = [
-        "english",
-        # "french",
-        "german",
-        # "spanish",
-        # "mandarin",
-                ]
+
+    # lang_options = [
+    #     "english",
+    #     "french",
+    #     "german",
+    #     "spanish",
+    #     "mandarin",
+    #             ]
 
     # lang_choice = lang_options[1]
     # lang_choice = input("Specify the language for practice (english/french)")
