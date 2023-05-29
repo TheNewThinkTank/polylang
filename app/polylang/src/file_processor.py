@@ -45,6 +45,8 @@ def sort_lang_file(lang_file: str) -> dict:
     # "definition"
     # "example"
 
+    sorted_data =  {k.lower(): v for k, v in sorted_data.items()}
+
     return sorted_data
 
 
