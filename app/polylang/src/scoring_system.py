@@ -9,7 +9,7 @@ flashcards = [
     {"question": "Avion", "answer": "Airplane", "difficulty": "hard"}
 ]
 
-points = 0
+points = {}  # 0
 
 
 def load_points():
@@ -42,14 +42,20 @@ def handle_answer(correct):
     global points
 
     if correct:
-        points += 10  # Award 10 points for correct answer
+        # points += 10  # Award 10 points for correct answer
+        points['total_points'] = points.get('total_points', 0) + 10  # Award 10 points for correct answer
 
     # Update flashcard difficulty based on points
     for flashcard in flashcards:
+        # difficulty = flashcard['difficulty']
+        # if difficulty == 'easy' and points >= 20:
+        #     flashcard['difficulty'] = 'medium'
+        # elif difficulty == 'medium' and points >= 40:
+        #     flashcard['difficulty'] = 'hard'
         difficulty = flashcard['difficulty']
-        if difficulty == 'easy' and points >= 20:
+        if difficulty == 'easy' and points.get('total_points', 0) >= 20:
             flashcard['difficulty'] = 'medium'
-        elif difficulty == 'medium' and points >= 40:
+        elif difficulty == 'medium' and points.get('total_points', 0) >= 40:
             flashcard['difficulty'] = 'hard'
 
     save_points()
