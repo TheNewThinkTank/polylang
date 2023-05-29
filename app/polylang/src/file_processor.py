@@ -1,7 +1,13 @@
 """_summary_
+
+examples:
+python3 app/polylang/src/file_processor.py -l english
+python3 app/polylang/src/file_processor.py -l spanish
 """
 
+import argparse
 # from pprint import pprint as pp
+
 import yaml
 
 # TODO: handle single and double quotes
@@ -82,13 +88,22 @@ def main() -> None:
 
     lang_options = [
         "english",
-        # "french",
+        "french",
         "german",
-        # "spanish",
-        # "mandarin",
+        "spanish",
+        "mandarin",
                 ]
 
-    lang_choice = lang_options[1]
+    # lang_choice = lang_options[1]
+    parser = argparse.ArgumentParser(description='Language Learning Program')
+    parser.add_argument('-l', '--language', type=str,
+                        help="""
+                                Specify the language for practice
+                                (english / german / spanish)
+                        """
+                        )
+    args = parser.parse_args()
+    lang_choice = args.language
 
     lang_file = f"app/polylang/assets/{lang_choice}/raw/{lang_files[-1]}.yml"
 
