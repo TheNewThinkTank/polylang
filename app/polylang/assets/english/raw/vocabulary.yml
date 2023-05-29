@@ -443,5 +443,20 @@ exorbitant:
 
 modality:
   part-of-speech: noun
-  definition: a particular mode in which something exists or is experienced or expressed.
+  definition: a particular mode in which something exists or is experienced or expressed
   example: ""
+
+codify:
+  part-of-speech: verb
+  definition: arrange (laws or rules) into a systematic code
+  example: the statutes have codified certain branches of common law
+
+iconoclast:
+  part-of-speech: noun
+  definition: a person who attacks or criticizes cherished beliefs or institutions
+  example: ""
+
+finicky:
+  part-of-speech: adjective
+  definition: (of a person) fussy about their needs or requirements
+  example: a finicky eater
