@@ -13,13 +13,13 @@ Por favor:
   eng_translation: Please
 
 Si:
-  eng_translation: Yes
+  eng_translation: "Yes"
 
 Claro:
   eng_translation: Of course
 
-No:
-  eng_translation: No
+"No":
+  eng_translation: "No"
 
 Amor:
   eng_translation: Love

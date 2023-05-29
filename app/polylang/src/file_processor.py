@@ -6,10 +6,11 @@ python3 app/polylang/src/file_processor.py -l spanish
 """
 
 import argparse
-# from pprint import pprint as pp
+from pprint import pprint as pp
 
 import yaml
 
+# TODO: yaml key and values of "No" and "Yes" becomes bool. Add string casting to fix (example: spanish/raw/vocabulary.yml)
 # TODO: handle single and double quotes
 # TODO: add pipe (|) before multiline strings
 # TODO: strip final dot from word definition and from word example
@@ -26,6 +27,8 @@ def sort_lang_file(lang_file: str) -> dict:
 
     with open(lang_file, "r", encoding="utf-8") as rf:
         data = yaml.load(rf, Loader=yaml.SafeLoader)
+
+    pp(data)
 
     sorted_data = dict(sorted(data.items()))
 
