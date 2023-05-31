@@ -460,3 +460,13 @@ finicky:
   part-of-speech: adjective
   definition: (of a person) fussy about their needs or requirements
   example: a finicky eater
+
+affidavit:
+  part-of-speech: noun
+  definition: a written statement confirmed by oath or affirmation, for use as evidence in court
+  example: a former employee swore an affidavit relating to his claim for unfair dismissal
+
+tarp:
+  part-of-speech: noun
+  definition: a tarpaulin sheet or cover
+  example: ""

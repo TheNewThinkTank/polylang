@@ -2,63 +2,58 @@
 """
 
 import json
+from pprint import pprint as pp
 
 flashcards = [
-    {"question": "Bonjour", "answer": "Hello", "difficulty": "easy"},
-    {"question": "Chat", "answer": "Cat", "difficulty": "medium"},
-    {"question": "Avion", "answer": "Airplane", "difficulty": "hard"}
+    {"question": "Bonjour", "answer": "Hello", "difficulty": "easy", "points": 0},
+    {"question": "Chat", "answer": "Cat", "difficulty": "medium", "points": 0},
+    {"question": "Avion", "answer": "Airplane", "difficulty": "hard", "points": 0},
 ]
 
-points = {}  # 0
 
-
-def load_points():
-    """Load points data from a file.
+def load_data():
+    """Load flashcards and points data from files
     """
 
-    global points
+    global flashcards
     try:
-        with open('points.json') as file:
-            points = json.load(file)
+        with open('flashcards.json') as file:
+            flashcards = json.load(file)
     except FileNotFoundError:
-        points = {}
+        flashcards = []
 
 
-def save_points():
-    """Save points data to a file.
+def save_data():
+    """Save flashcards and points data to files
     """
 
-    with open('points.json', 'w') as file:
-        json.dump(points, file)
+    with open('flashcards.json', 'w') as file:
+        json.dump(flashcards, file)
 
 
-def handle_answer(correct):
-    """Award points for correct answer and update flashcard difficulty.
+def handle_answer(flashcard, correct):
+    """Award points for correct answer and update flashcard difficulty
 
+    :param flashcard: _description_
+    :type flashcard: _type_
     :param correct: _description_
     :type correct: _type_
     """
-
-    global points
-
     if correct:
-        # points += 10  # Award 10 points for correct answer
-        points['total_points'] = points.get('total_points', 0) + 10  # Award 10 points for correct answer
+        flashcard['points'] += 10  # Award 10 points for correct answer
+    else:
+        flashcard['points'] = max(0, flashcard['points'] - 5)  # Deduct 5 points for incorrect answer
 
     # Update flashcard difficulty based on points
-    for flashcard in flashcards:
-        # difficulty = flashcard['difficulty']
-        # if difficulty == 'easy' and points >= 20:
-        #     flashcard['difficulty'] = 'medium'
-        # elif difficulty == 'medium' and points >= 40:
-        #     flashcard['difficulty'] = 'hard'
-        difficulty = flashcard['difficulty']
-        if difficulty == 'easy' and points.get('total_points', 0) >= 20:
-            flashcard['difficulty'] = 'medium'
-        elif difficulty == 'medium' and points.get('total_points', 0) >= 40:
-            flashcard['difficulty'] = 'hard'
+    points = flashcard['points']
+    if points >= 30:
+        flashcard['difficulty'] = 'easy'
+    elif points >= 20:
+        flashcard['difficulty'] = 'medium'
+    else:
+        flashcard['difficulty'] = 'hard'
 
-    save_points()
+    save_data()
 
 
 def get_flashcards(difficulty):
@@ -70,15 +65,27 @@ def get_flashcards(difficulty):
     :rtype: _type_
     """
 
-    return [flashcard for flashcard in flashcards if flashcard['difficulty'] == difficulty]
+    res = [flashcard for flashcard in flashcards if flashcard['difficulty'] == difficulty]
+
+    pp(flashcards)
+    print(difficulty)
+    pp(res)
+
+    for flashcard in flashcards:
+        print(flashcard)
+
+    return res
 
 
 def main():
-    load_points()
+    """_summary_
+    """
+
+    load_data()
 
     # Use the ranking system to display flashcards
     while True:
-        print(f"Current Points: {points}")
+        # print(f"Current Points: {points}")
         print("Select difficulty level:")
         print("1. Easy")
         print("2. Medium")
@@ -98,17 +105,20 @@ def main():
                 continue
 
             for flashcard in flashcards_to_display:
+                print("############ test ##############")
                 question = flashcard['question']
                 answer = flashcard['answer']
                 user_answer = input(f"Q: {question}?\nA: ")
                 correct = user_answer.lower() == answer.lower()
-                handle_answer(correct)
+                # handle_answer(correct)
+                handle_answer(flashcard, correct)
                 print("Correct!" if correct else "Incorrect!")
 
         else:
             print("Invalid choice. Please try again.")
 
-    save_points()
+    # save_points()
+    save_data()
 
 
 if __name__ == '__main__':
