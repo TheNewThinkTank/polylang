@@ -470,3 +470,18 @@ tarp:
   part-of-speech: noun
   definition: a tarpaulin sheet or cover
   example: ""
+
+disdain:
+  part-of-speech: noun
+  definition: the feeling that someone or something is unworthy of one's consideration or respect.
+  example: "her upper lip curled in disdain"
+
+lingering:
+  part-of-speech: adjective
+  definition: lasting for a long time or slow to end.
+  example: "there are still some lingering doubts in my mind"
+
+disparaging:
+  part-of-speech: adjective
+  definition: expressing the opinion that something is of little worth; derogatory.
+  example: "disparaging remarks about council houses"
