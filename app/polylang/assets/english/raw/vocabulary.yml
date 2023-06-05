@@ -485,3 +485,35 @@ disparaging:
   part-of-speech: adjective
   definition: expressing the opinion that something is of little worth; derogatory.
   example: "disparaging remarks about council houses"
+
+diminutive:
+  part-of-speech: adjective
+  definition: extremely or unusually small.
+  example: "a diminutive figure dressed in black"
+
+coronation:
+  part-of-speech: noun
+  definition: the ceremony of crowning a sovereign or a sovereign's consort.
+  example: "the Queen's coronation"
+
+piety:
+  part-of-speech: noun
+  definition_1: the quality of being religious or reverent.
+  example_1: "acts of piety and charity"
+  definition_2: a belief which is accepted with unthinking conventional reverence.
+  example_2: "the accepted pieties of our time"
+
+filial:
+  part-of-speech: adjective
+  definition: relating to or due from a son or daughter.
+  example: "a display of filial affection"
+
+reverence:
+  part-of-speech: noun
+  definition: deep respect for someone or something.
+  example: "rituals showed honour and reverence for the dead"
+
+unthinking:
+  part-of-speech: adjective
+  definition: expressed, done, or acting without proper consideration of the consequences.
+  example: "she was at pains to correct unthinking prejudices"
