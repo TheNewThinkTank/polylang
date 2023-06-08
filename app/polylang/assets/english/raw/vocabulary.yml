@@ -522,3 +522,71 @@ al fresco:
   part-of-speech: adverb
   definition: (especially with reference to eating) in the open air.
   example: "in the unlikely event of some sunshine you can even dine al fresco"
+
+ansatz:
+  part-of-speech: noun
+  definition: |
+    an assumption about the form of an unknown function
+    which is made in order to facilitate solution of an equation or other problem.
+
+terse:
+  part-of-speech: adjective
+  definition: sparing in the use of words; abrupt.
+  example: "a terse statement"
+
+sparing:
+  part-of-speech: adjective
+  definition: moderate; economical.
+  example: "physicians advised sparing use of the ointment"
+
+patio:
+  part-of-speech: noun
+  definition: a paved outdoor area adjoining a house.
+  example: "the dining room looks out to a small patio"
+
+colander:
+  part-of-speech: noun
+  definition: a perforated bowl used to strain off liquid from food after washing or cooking.
+
+hammock:
+  part-of-speech: noun
+  definition: a bed made of canvas or rope mesh suspended from two supports by cords at both ends.
+
+pergola:
+  part-of-speech: noun
+  definition: an arched structure in a garden or park consisting of a framework covered with climbing or trailing plants.
+
+drainage:
+  part-of-speech: noun
+  definition: the action or process of draining something.
+  example: "the pot must have holes in the base for good drainage"
+
+sturdy:
+  part-of-speech: adjective
+  definition: (of a person or their body) strongly and solidly built.
+  example: "he had a sturdy, muscular physique"
+
+leviathan:
+  part-of-speech: noun
+  definition: a thing that is very large or powerful, especially an organization or vehicle.
+  example: "it's a challenge to navigate a wheeled leviathan in rush-hour traffic"
+
+forsooth:
+  part-of-speech: adverb
+  definition: indeed (often used ironically).
+  example: "it's a kind of wine bar for royals, forsooth"
+
+paramount:
+  part-of-speech: adjective
+  definition: more important than anything else; supreme.
+  example: "the interests of the child are of paramount importance"
+
+revamp:
+  part-of-speech: verb
+  definition: give new and improved form, structure, or appearance to.
+  example: "an attempt to revamp the museum's image"
+
+coercion:
+  part-of-speech: noun
+  definition: the practice of persuading someone to do something by using force or threats.
+  example: "our problem cannot be solved by any form of coercion but only by agreement"
