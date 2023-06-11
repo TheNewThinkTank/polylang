@@ -604,4 +604,9 @@ asphyxiation:
 ante:
   part-of-speech: noun
   definition: a stake put up by a player in poker or brag before receiving cards.
-  example: "the antes were at the $10,000–$20,000 level"
+  example: "the antes were at the $10,000-$20,000 level"
+
+cardinal:
+  part-of-speech: adjective
+  definition: of the greatest importance; fundamental.
+  example: "two cardinal points must be borne in mind"
