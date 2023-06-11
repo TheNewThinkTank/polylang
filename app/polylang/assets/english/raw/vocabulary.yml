@@ -610,3 +610,8 @@ cardinal:
   part-of-speech: adjective
   definition: of the greatest importance; fundamental.
   example: "two cardinal points must be borne in mind"
+
+inundate:
+  part-of-speech: verb
+  definition: overwhelm (someone) with things or people to be dealt with.
+  example: "we've been inundated with complaints from listeners"
