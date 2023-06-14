@@ -617,36 +617,56 @@ inundate:
   example: "we've been inundated with complaints from listeners"
 
 profundity:
-noun
-great depth of insight or knowledge.
-"the simplicity and profundity of the message"
+  part-of-speech: noun
+  definition: great depth of insight or knowledge.
+  example: "the simplicity and profundity of the message"
 
 dichotomy:
-noun
-a division or contrast between two things that are or are represented as being opposed or entirely different.
-"a rigid dichotomy between science and mysticism"
+  part-of-speech: noun
+  definition: a division or contrast between two things that are or are represented as being opposed or entirely different.
+  example: "a rigid dichotomy between science and mysticism"
 
 surreptitiously:
-adverb
-in a way that attempts to avoid notice or attention; secretively.
-"Mary surreptitiously slipped from the room"
+  part-of-speech: adverb
+  definition: in a way that attempts to avoid notice or attention; secretively.
+  example: "Mary surreptitiously slipped from the room"
 
 credo:
-noun
-a statement of the beliefs or aims which guide someone's actions.
-"he announced his credo in his first editorial"
+  part-of-speech: noun
+  definition: a statement of the beliefs or aims which guide someone's actions.
+  example: "he announced his credo in his first editorial"
 
 innuendo:
-noun
-an allusive or oblique remark or hint, typically a suggestive or disparaging one.
-"she's always making sly innuendoes"
+  part-of-speech: noun
+  definition: an allusive or oblique remark or hint, typically a suggestive or disparaging one.
+  example: "she's always making sly innuendoes"
 
 disparaging:
-adjective
-expressing the opinion that something is of little worth; derogatory.
-"disparaging remarks about council houses"
+  part-of-speech: adjective
+  definition: expressing the opinion that something is of little worth; derogatory.
+  example: "disparaging remarks about council houses"
 
 gusto:
-noun
-enjoyment and enthusiasm in doing something.
-"Hawkins tucked into his breakfast with gusto"
+  part-of-speech: noun
+  definition: enjoyment and enthusiasm in doing something.
+  example: "Hawkins tucked into his breakfast with gusto"
+
+nifty:
+  part-of-speech: adjective
+  definition: particularly good, skilful, or effective.
+  example: "nifty footwork"
+
+ailing:
+  part-of-speech: adjective
+  definition: in poor health.
+  example: "I went to see my ailing mother"
+
+burlesque:
+  part-of-speech: noun
+  definition: an absurd or comically exaggerated imitation of something, especially in a literary or dramatic work; a parody.
+  example: "a novel which is a burlesque of the literary life"
+
+neophyte:
+  part-of-speech: noun
+  definition: a person who is new to a subject or activity.
+  example: "four-day cooking classes are offered to neophytes and experts"
