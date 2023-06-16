@@ -670,3 +670,13 @@ neophyte:
   part-of-speech: noun
   definition: a person who is new to a subject or activity.
   example: "four-day cooking classes are offered to neophytes and experts"
+
+shoehorn:
+  part-of-speech: verb
+  definition: force into an inadequate space.
+  example: "people were shoehorned into cramped corners"
+
+glossy:
+  part-of-speech: adjective
+  definition: shiny and smooth.
+  example: "thick, glossy, manageable hair"
