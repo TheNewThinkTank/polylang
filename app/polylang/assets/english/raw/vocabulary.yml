@@ -680,3 +680,13 @@ glossy:
   part-of-speech: adjective
   definition: shiny and smooth.
   example: "thick, glossy, manageable hair"
+
+acrid:
+  part-of-speech: adjective
+  definition: unpleasantly bitter or pungent.
+  example: "acrid smoke"
+
+pungent:
+  part-of-speech: adjective
+  definition: having a sharply strong taste or smell.
+  example: "the pungent smell of frying onions"
