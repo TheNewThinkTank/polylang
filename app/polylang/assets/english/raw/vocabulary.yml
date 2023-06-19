@@ -690,3 +690,8 @@ pungent:
   part-of-speech: adjective
   definition: having a sharply strong taste or smell.
   example: "the pungent smell of frying onions"
+
+perpetuity:
+  part-of-speech: noun
+  definition: the state or quality of lasting forever.
+  example: "he did not believe in the perpetuity of military rule"
