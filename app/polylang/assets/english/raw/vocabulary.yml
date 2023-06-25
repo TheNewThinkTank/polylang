@@ -706,35 +706,47 @@ guild:
   definition: a group of species that have similar requirements and play a similar role within a community.
 
 crescendo:
-noun
-the highest point reached in a progressive increase of intensity.
-"the hysteria reached a crescendo around the spring festival"
+  part-of-speech: noun
+  definition: the highest point reached in a progressive increase of intensity.
+  example: "the hysteria reached a crescendo around the spring festival"
 
 fruition:
-noun
-the realization or fulfilment of a plan or project.
-"the plans have come to fruition rather sooner than expected"
+  part-of-speech: noun
+  definition: the realization or fulfilment of a plan or project.
+  example: "the plans have come to fruition rather sooner than expected"
 
 prophylactic:
-adjective
-intended to prevent disease.
-"prophylactic measures"
+  part-of-speech: adjective
+  definition: intended to prevent disease.
+  example: "prophylactic measures"
 
 gawk:
-verb
-stare openly and stupidly.
-"they were gawking at some pin-up"
+  part-of-speech: verb
+  definition: stare openly and stupidly.
+  example: "they were gawking at some pin-up"
 
 famished:
-adjective
-extremely hungry.
-"I'm famished—is there anything to eat?"
+  part-of-speech: adjective
+  definition: extremely hungry.
+  example: "I'm famished—is there anything to eat?"
 
 inure:
-verb
-accustom (someone) to something, especially something unpleasant.
-"these children have been inured to violence"
+  part-of-speech: verb
+  definition: accustom (someone) to something, especially something unpleasant.
+  example: "these children have been inured to violence"
 
 Apophenia:
-Apophenia is the tendency to perceive meaningful connections between unrelated things.
-The term was coined by psychiatrist Klaus Conrad in his 1958 publication on the beginning stages of schizophrenia.
+  part-of-speech:
+  definition: |
+    Apophenia is the tendency to perceive meaningful connections between unrelated things.
+    The term was coined by psychiatrist Klaus Conrad in his 1958 publication on the beginning stages of schizophrenia.
+
+pensive:
+  part-of-speech: adjective
+  definition: engaged in, involving, or reflecting deep or serious thought.
+  example: "a pensive mood"
+
+giddy:
+  part-of-speech: adjective
+  definition: having a sensation of whirling and a tendency to fall or stagger; dizzy.
+  example: "Luke felt almost giddy with relief"
