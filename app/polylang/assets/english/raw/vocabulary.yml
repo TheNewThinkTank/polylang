@@ -752,11 +752,21 @@ giddy:
   example: "Luke felt almost giddy with relief"
 
 misconstrue:
-verb
-interpret (a person's words or actions) wrongly.
-"my advice was deliberately misconstrued"
+  part-of-speech: verb
+  definition: interpret (a person's words or actions) wrongly.
+  example: "my advice was deliberately misconstrued"
 
 unrequited:
-adjective
-(of a feeling, especially love) not returned.
-"he's been pining with unrequited love"
+  part-of-speech: adjective
+  definition: (of a feeling, especially love) not returned.
+  example: "he's been pining with unrequited love"
+
+malaise:
+  part-of-speech: noun
+  definition: a general feeling of discomfort, illness, or unease whose exact cause is difficult to identify.
+  example: "a general air of malaise"
+
+deplorable:
+  part-of-speech: adjective
+  definition: deserving strong condemnation; completely unacceptable.
+  example: "children living in deplorable conditions"
