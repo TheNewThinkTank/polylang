@@ -770,3 +770,8 @@ deplorable:
   part-of-speech: adjective
   definition: deserving strong condemnation; completely unacceptable.
   example: "children living in deplorable conditions"
+
+squint:
+  part-of-speech: verb
+  definition: look at someone or something with one or both eyes partly closed in an attempt to see more clearly or as a reaction to strong light.
+  example: "the bright sun made them squint"
