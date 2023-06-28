@@ -36,18 +36,19 @@ def sort_lang_file(lang_file: str) -> dict:
         # print(k)
         # print(v.get("part-of-speech", "part-of-speech missing!"))
         for kk, vv in v.items():
-            # print(kk)
+            print(kk)
+            print(vv)
             # print(vv, type(vv))
 
-            sorted_data[k][kk] = ''.join(vv.splitlines())  # vv.strip("\n")  # vv.removesuffix("\n")
+            # sorted_data[k][kk] = ''.join(vv.splitlines())  # vv.strip("\n")  # vv.removesuffix("\n")
 
     # "part-of-speech"
     # "definition"
     # "example"
 
-    sorted_data =  {k.lower(): v for k, v in sorted_data.items()}
+    # sorted_data =  {k.lower(): v for k, v in sorted_data.items()}
 
-    return sorted_data
+    return # sorted_data
 
 
 def write_sorted_to_file(lang_file: str, sorted_data: dict, out_file: str) -> None:
@@ -111,16 +112,13 @@ def main() -> None:
     lang_choice = args.language
 
     lang_file = f"app/polylang/assets/{lang_choice}/raw/{lang_files[-1]}.yml"
+    # print(f"{lang_file = }")
 
     sorted_data = sort_lang_file(lang_file)
     # pp(sorted_data)
-
-    parts = lang_file.split('/')
-
-    out_file = parts[0] + "/" + parts[1] + "/" + parts[2] + "/" + parts[3] + "/processed/" + parts[-1]
-
-
-    write_sorted_to_file(lang_file, sorted_data, out_file)
+    # parts = lang_file.split('/')
+    # out_file = parts[0] + "/" + parts[1] + "/" + parts[2] + "/" + parts[3] + "/processed/" + parts[-1]
+    # write_sorted_to_file(lang_file, sorted_data, out_file)
 
 
 if __name__ == "__main__":

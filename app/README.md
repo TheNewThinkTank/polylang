@@ -19,3 +19,8 @@ python3 app/polylang/src/gui.py --language german
 python3 app/polylang/src/gui.py -l spanish
 python3 app/polylang/src/gui.py --language spanish
 ```
+
+To curate raw (English) language content:
+```Python
+python3 app/polylang/src/file_processor.py -l english 
+```

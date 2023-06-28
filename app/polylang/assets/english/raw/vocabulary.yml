@@ -528,6 +528,7 @@ ansatz:
   definition: |
     an assumption about the form of an unknown function
     which is made in order to facilitate solution of an equation or other problem.
+  example: ""
 
 terse:
   part-of-speech: adjective
@@ -547,14 +548,17 @@ patio:
 colander:
   part-of-speech: noun
   definition: a perforated bowl used to strain off liquid from food after washing or cooking.
+  example: ""
 
 hammock:
   part-of-speech: noun
   definition: a bed made of canvas or rope mesh suspended from two supports by cords at both ends.
+  example: ""
 
 pergola:
   part-of-speech: noun
   definition: an arched structure in a garden or park consisting of a framework covered with climbing or trailing plants.
+  example: ""
 
 drainage:
   part-of-speech: noun
@@ -704,6 +708,7 @@ henpeck:
 guild:
   part-of-speech: noun
   definition: a group of species that have similar requirements and play a similar role within a community.
+  example: ""
 
 crescendo:
   part-of-speech: noun
@@ -740,6 +745,7 @@ Apophenia:
   definition: |
     Apophenia is the tendency to perceive meaningful connections between unrelated things.
     The term was coined by psychiatrist Klaus Conrad in his 1958 publication on the beginning stages of schizophrenia.
+  example: ""
 
 pensive:
   part-of-speech: adjective
@@ -775,3 +781,35 @@ squint:
   part-of-speech: verb
   definition: look at someone or something with one or both eyes partly closed in an attempt to see more clearly or as a reaction to strong light.
   example: "the bright sun made them squint"
+
+scholastic:
+  part-of-speech: adjective
+  definition: of or concerning schools and education.
+  example: "scholastic achievement"
+
+albeit:
+conjunction
+though.
+"he was making progress, albeit rather slowly"
+
+interlocutor:
+noun
+a person who takes part in a dialogue or conversation.
+
+congregation:
+noun
+a group of people assembled for religious worship.
+"the singing of psalms by the whole congregation"
+
+cinch:
+noun
+an extremely easy task.
+"the program was a cinch to use"
+verb
+make certain of.
+"his advice cinched her decision to accept the offer"
+
+hardiness:
+noun
+the ability to endure difficult conditions.
+"I applaud you on your hardiness"
