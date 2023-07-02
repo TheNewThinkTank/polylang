@@ -788,55 +788,58 @@ scholastic:
   example: "scholastic achievement"
 
 albeit:
-conjunction
-though.
-"he was making progress, albeit rather slowly"
+  part-of-speech: conjunction
+  definition: though.
+  example: "he was making progress, albeit rather slowly"
 
 interlocutor:
-noun
-a person who takes part in a dialogue or conversation.
+  part-of-speech: noun
+  definition: a person who takes part in a dialogue or conversation.
+  example: ""
 
 congregation:
-noun
-a group of people assembled for religious worship.
-"the singing of psalms by the whole congregation"
+  part-of-speech: noun
+  definition: a group of people assembled for religious worship.
+  example: "the singing of psalms by the whole congregation"
 
 cinch:
-noun
-an extremely easy task.
-"the program was a cinch to use"
-verb
-make certain of.
-"his advice cinched her decision to accept the offer"
+  part-of-speech: noun
+  definition: an extremely easy task.
+  example: "the program was a cinch to use"
+  part-of-speech: verb
+  definition: make certain of.
+  example: "his advice cinched her decision to accept the offer"
 
 hardiness:
-noun
-the ability to endure difficult conditions.
-"I applaud you on your hardiness"
+  part-of-speech: noun
+  definition: the ability to endure difficult conditions.
+  example: "I applaud you on your hardiness"
 
 liege:
 HISTORICAL
-adjective
-concerned with or relating to the relationship between a feudal superior and a vassal.
-"an oath of fealty and liege homage"
-noun
-a feudal superior or sovereign.
-"the Scots obeyed him as their liege lord"
+  part-of-speech: adjective
+  definition: concerned with or relating to the relationship between a feudal superior and a vassal.
+  example: "an oath of fealty and liege homage"
+  part-of-speech: noun
+  definition: a feudal superior or sovereign.
+  example: "the Scots obeyed him as their liege lord"
 
 livelihood:
-noun
-a means of securing the necessities of life.
-"people whose livelihoods depend on the rainforest"
+  part-of-speech: noun
+  definition: a means of securing the necessities of life.
+  example: "people whose livelihoods depend on the rainforest"
 
 skint:
-adjective
-(of a person) having little or no money available.
-"I'm a bit skint just now"
+  part-of-speech: adjective
+  definition: (of a person) having little or no money available.
+  example: "I'm a bit skint just now"
 
 peloton:
-noun
-the main field or group of cyclists in a race.
+  part-of-speech: noun
+  definition: the main field or group of cyclists in a race.
+  example: ""
 
 slipstream:
-noun
-a current of air or water driven back by a revolving propeller or jet engine.
+  part-of-speech: noun
+  definition: a current of air or water driven back by a revolving propeller or jet engine.
+  example: ""
