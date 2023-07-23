@@ -1,3 +1,4 @@
+[![GitHub repo size](https://img.shields.io/github/repo-size/TheNewThinkTank/polylang?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/TheNewThinkTank/polylang/archive/refs/heads/main.zip)
 # polylang
 Multi language learning app
 
