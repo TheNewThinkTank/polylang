@@ -846,353 +846,396 @@ slipstream:
 
 irredentism:
   part-of-speech: noun
-a policy of advocating the restoration to a country of any territory formerly belonging to it.
+  definition: a policy of advocating the restoration to a country of any territory formerly belonging to it.
+  example: ""
 
 exuberance:
-noun
-the quality of being full of energy, excitement, and cheerfulness; ebullience.
-"a sense of youthful exuberance"
+  part-of-speech: noun
+  definition: the quality of being full of energy, excitement, and cheerfulness; ebullience.
+  example: "a sense of youthful exuberance"
 
 ebullience:
-noun
-the quality of being cheerful and full of energy; exuberance.
-"the ebullience of happy children"
+  part-of-speech: noun
+  definition: the quality of being cheerful and full of energy; exuberance.
+  example: "the ebullience of happy children"
 
 arduous:
-adjective
-involving or requiring strenuous effort; difficult and tiring.
-"an arduous journey"
+  part-of-speech: adjective
+  definition: involving or requiring strenuous effort; difficult and tiring.
+  example: "an arduous journey"
 
 decimate:
-verb
-kill, destroy, or remove a large proportion of.
-"the inhabitants of the country had been decimated"
+  part-of-speech: verb
+  definition: kill, destroy, or remove a large proportion of.
+  example: "the inhabitants of the country had been decimated"
 
 behemoth:
-noun
-a huge or monstrous creature.
-"behemoths like the brontosaurus"
-something enormous, especially a large and powerful organization.
-"shoppers are now more loyal to their local shops than to faceless behemoths"
+  part-of-speech: noun
+  definition_1: a huge or monstrous creature.
+  example_1: "behemoths like the brontosaurus"
+  definition_2: something enormous, especially a large and powerful organization.
+  example_2: "shoppers are now more loyal to their local shops than to faceless behemoths"
 
 inconspicuous:
-adjective
-not clearly visible or attracting attention.
-"an inconspicuous red-brick building"
+  part-of-speech: adjective
+  definition: not clearly visible or attracting attention.
+  example: "an inconspicuous red-brick building"
 
 malleable:
-adjective
-easily influenced; pliable.
-"they are as malleable and easily led as sheep"
+  part-of-speech: adjective
+  definition: easily influenced; pliable.
+  example: "they are as malleable and easily led as sheep"
 
 throng:
-noun
-a large, densely packed crowd of people or animals.
-"he pushed his way through the throng"
+  part-of-speech: noun
+  definition: a large, densely packed crowd of people or animals.
+  example: "he pushed his way through the throng"
 
 relegation:
-noun
-the action of assigning to an inferior rank or position.
-"the relegation of experienced party members to the status of second-class citizens"
+  part-of-speech: noun
+  definition: the action of assigning to an inferior rank or position.
+  example: "the relegation of experienced party members to the status of second-class citizens"
 
 vehemently:
-adverb
-in a forceful, passionate, or intense manner; with great feeling.
-"he vehemently denied any suggestion of improper conduct"
+  part-of-speech: adverb
+  definition: in a forceful, passionate, or intense manner; with great feeling.
+  example: "he vehemently denied any suggestion of improper conduct"
 
 exacerbate:
-verb
-make (a problem, bad situation, or negative feeling) worse.
-"the exorbitant cost of land in urban areas only exacerbated the problem"
+  part-of-speech: verb
+  definition: make (a problem, bad situation, or negative feeling) worse.
+  example: "the exorbitant cost of land in urban areas only exacerbated the problem"
 
 behest:
-noun
-a person's orders or command.
-"they had assembled at his behest"
+  part-of-speech: noun
+  definition: a person's orders or command.
+  example: "they had assembled at his behest"
 
 petrified:
-adjective
-so frightened that one is unable to move; terrified.
-"the petrified child clung to her mother"
+  part-of-speech: adjective
+  definition: so frightened that one is unable to move; terrified.
+  example: "the petrified child clung to her mother"
 
 scab:
-noun
-a dry, rough protective crust that forms over a cut or wound during healing.
+  part-of-speech: noun
+  definition: a dry, rough protective crust that forms over a cut or wound during healing.
+  example: ""
 
 detrimental:
-adjective
-tending to cause harm.
-"recent policies have been detrimental to the interests of many old people"
+  part-of-speech: adjective
+  definition: tending to cause harm.
+  example: "recent policies have been detrimental to the interests of many old people"
 
 jilt:
-verb
-suddenly reject or abandon (a lover).
-"he was jilted at the altar by his bride-to-be"
+  part-of-speech: verb
+  definition: suddenly reject or abandon (a lover).
+  example: "he was jilted at the altar by his bride-to-be"
 
 ethos:
-noun
-the characteristic spirit of a culture, era, or community as manifested in its attitudes and aspirations.
-"a challenge to the ethos of the 1960s"
+  part-of-speech: noun
+  definition: |
+    the characteristic spirit of a culture, era,
+    or community as manifested in its attitudes and aspirations.
+  example: "a challenge to the ethos of the 1960s"
 
 Pentecostalism:
-noun
-Protestant Charismatic Christian movement that emphasizes direct personal experience of God through baptism with the Holy Spirit.
+  part-of-speech: noun
+  definition: |
+    Protestant Charismatic Christian movement that emphasizes direct personal experience of God
+    through baptism with the Holy Spirit.
+  example: ""
 
 stonewalling:
-when someone completely shuts down in a conversation or is refusing to communicate with another person
+  definition: |
+    when someone completely shuts down in a conversation
+    or is refusing to communicate with another person.
+  example: ""
 
 seditious:
-adjective
-inciting or causing people to rebel against the authority of a state or monarch.
-"the letter was declared seditious"
+  part-of-speech: adjective
+  definition: inciting or causing people to rebel against the authority of a state or monarch.
+  example: "the letter was declared seditious"
 
 effeminate:
-adjective
-(with reference to a man) having characteristics and ways of behaving traditionally associated with women and regarded as inappropriate for a man.
-"John is depicted as an effeminate young man with flowing hair and delicate hands"
+  part-of-speech: adjective
+  definition: |
+    (with reference to a man) having characteristics and ways of behaving
+    traditionally associated with women and regarded as inappropriate for a man.
+  example: "John is depicted as an effeminate young man with flowing hair and delicate hands"
 
 atrocious:
-adjective
-horrifyingly wicked.
-"atrocious cruelties"
+  part-of-speech: adjective
+  definition: horrifyingly wicked.
+  example: "atrocious cruelties"
 
 glean:
-verb
-obtain (information) from various sources, often with difficulty.
-"the information is gleaned from press cuttings"
+  part-of-speech: verb
+  definition: obtain (information) from various sources, often with difficulty.
+  example: "the information is gleaned from press cuttings"
 
 prowess:
-noun
-skill or expertise in a particular activity or field.
-"his prowess as a fisherman"
+  part-of-speech: noun
+  definition: skill or expertise in a particular activity or field.
+  example: "his prowess as a fisherman"
 
 hone:
-verb
-refine or perfect (something) over a period of time.
-"some of the best players in the world honed their skills playing street football"
+  part-of-speech: verb
+  definition: refine or perfect (something) over a period of time.
+  example: "some of the best players in the world honed their skills playing street football"
 
 maim:
-verb
-wound or injure (a person or animal) so that part of the body is permanently damaged.
-"100,000 soldiers were killed or maimed"
+  part-of-speech: verb
+  definition: wound or injure (a person or animal) so that part of the body is permanently damaged.
+  example: "100,000 soldiers were killed or maimed"
 
 ember:
-noun
-a small piece of burning or glowing coal or wood in a dying fire.
-"the dying embers in the grate"
+  part-of-speech: noun
+  definition: a small piece of burning or glowing coal or wood in a dying fire.
+  example: "the dying embers in the grate"
 
 proverbial:
-adjective
-(of a word or phrase) referred to in a proverb or idiom.
-"I'm going to stick out like the proverbial sore thumb"
+  part-of-speech: adjective
+  definition: (of a word or phrase) referred to in a proverb or idiom.
+  example: "I'm going to stick out like the proverbial sore thumb"
 
 aspersion:
-noun
-an attack on the reputation or integrity of someone or something.
-"I don't think anyone is casting aspersions on you"
+  part-of-speech: noun
+  definition: an attack on the reputation or integrity of someone or something.
+  example: "I don't think anyone is casting aspersions on you"
 
 callous:
-adjective
-showing or having an insensitive and cruel disregard for others.
-"his callous comments about the murder made me shiver"
+  part-of-speech: adjective
+  definition: showing or having an insensitive and cruel disregard for others.
+  example: "his callous comments about the murder made me shiver"
 
 patsy:
-noun
-a person who is easily taken advantage of, especially by being cheated or blamed for something.
-"there is a mischievous sparkle in his eyes that suggests he is no patsy"
+  part-of-speech: noun
+  definition: |
+    a person who is easily taken advantage of,
+    especially by being cheated or blamed for something.
+  example: "there is a mischievous sparkle in his eyes that suggests he is no patsy"
 
 grouchy:
-adjective
-irritable and bad-tempered; grumpy; complaining.
-"the old man grew sulky and grouchy"
+  part-of-speech: adjective
+  definition: irritable and bad-tempered; grumpy; complaining.
+  example: "the old man grew sulky and grouchy"
 
 cathartic:
-adjective
-providing psychological relief through the open expression of strong emotions; causing catharsis.
-"crying is a cathartic release"
+  part-of-speech: adjective
+  definition: |
+    providing psychological relief through the open expression of strong emotions;
+    causing catharsis.
+  example: "crying is a cathartic release"
 
 concoction:
-noun
-a mixture of various ingredients or elements.
-"the facade is a strange concoction of northern Mannerism and Italian Baroque"
+  part-of-speech: noun
+  definition: a mixture of various ingredients or elements.
+  example: "the facade is a strange concoction of northern Mannerism and Italian Baroque"
 
 oust:
-verb
-drive out or expel (someone) from a position or place.
-"the reformists were ousted from power"
+  part-of-speech: verb
+  definition: drive out or expel (someone) from a position or place.
+  example: "the reformists were ousted from power"
 
 balaclava:
-noun
-a close-fitting garment covering the whole head and neck except for parts of the face, typically made of wool.
+  part-of-speech: noun
+  definition: |
+    a close-fitting garment covering the whole head and neck except for parts of the face,
+    typically made of wool.
+  example: ""
 
 attenuated:
-adjective
-having been reduced in force, effect, or value.
-"it appears likely that the courts will be given an attenuated role in the enforcement of these decisions"
+  part-of-speech: adjective
+  definition: having been reduced in force, effect, or value.
+  example: "it appears likely that the courts will be given an attenuated role in the enforcement of these decisions"
 
 moratorium:
-noun
-a temporary prohibition of an activity.
-"a moratorium on the use of drift nets"
+  part-of-speech: noun
+  definition: a temporary prohibition of an activity.
+  example: "a moratorium on the use of drift nets"
 
 trepidation:
-noun
-a feeling of fear or anxiety about something that may happen.
-"the men set off in fear and trepidation"
+  part-of-speech: noun
+  definition: a feeling of fear or anxiety about something that may happen.
+  example: "the men set off in fear and trepidation"
 
 seminal:
-adjective
-strongly influencing later developments.
-"his seminal work on chaos theory"
+  part-of-speech: adjective
+  definition: strongly influencing later developments.
+  example: "his seminal work on chaos theory"
 
 salutary:
-adjective
-(especially with reference to something unwelcome or unpleasant) producing good effects; beneficial.
-"it failed to draw salutary lessons from Britain's loss of its colonies"
+  part-of-speech: adjective
+  definition: |
+    (especially with reference to something unwelcome or unpleasant)
+    producing good effects; beneficial.
+  example: "it failed to draw salutary lessons from Britain's loss of its colonies"
 
 admonishment:
-noun
-a firm warning or reprimand.
-"as they were about to leave, he gave them one final admonishment"
+  part-of-speech: noun
+  definition: a firm warning or reprimand.
+  example: "as they were about to leave, he gave them one final admonishment"
 
 ancillary:
-adjective
-providing necessary support to the primary activities or operation of an organization, system, etc.
-"ancillary staff"
+  part-of-speech: adjective
+  definition: |
+    providing necessary support to the primary activities or operation
+    of an organization, system, etc.
+  example: "ancillary staff"
 
 hoist:
-verb
-raise (something) by means of ropes and pulleys.
-"a white flag was hoisted"
+  part-of-speech: verb
+  definition: raise (something) by means of ropes and pulleys.
+  example: "a white flag was hoisted"
 
 epithet:
-noun
-an adjective or phrase expressing a quality or attribute regarded as characteristic of the person or thing mentioned.
-"old men are often unfairly awarded the epithet 'dirty'"
+  part-of-speech: noun
+  definition: |
+    an adjective or phrase expressing a quality or attribute
+    regarded as characteristic of the person or thing mentioned.
+  example: "old men are often unfairly awarded the epithet 'dirty'"
 
 plaintiff:
-noun
-a person who brings a case against another in a court of law.
-"the plaintiff commenced an action for damages"
+  part-of-speech: noun
+  definition: a person who brings a case against another in a court of law.
+  example: "the plaintiff commenced an action for damages"
 
 sinewy:
-adjective
-(of a person or animal) lean and muscular.
-"a short, sinewy, sunburnt man"
+  part-of-speech: adjective
+  definition: (of a person or animal) lean and muscular.
+  example: "a short, sinewy, sunburnt man"
 
 inadvertently:
-adverb
-without intention; accidentally.
-"his name had been inadvertently omitted from the list"
+  part-of-speech: adverb
+  definition: without intention; accidentally.
+  example: "his name had been inadvertently omitted from the list"
 
 vociferous:
-adjective
-expressing or characterized by vehement opinions; loud and forceful.
-"he was a vociferous opponent of the takeover"
+  part-of-speech: adjective
+  definition: expressing or characterized by vehement opinions; loud and forceful.
+  example: "he was a vociferous opponent of the takeover"
 
 mar:
-verb
-impair the quality or appearance of; spoil.
-"violence marred a number of New Year celebrations"
+  part-of-speech: verb
+  definition: impair the quality or appearance of; spoil.
+  example: "violence marred a number of New Year celebrations"
 
 putative:
-adjective
-generally considered or reputed to be.
-"the putative author of the book"
+  part-of-speech: adjective
+  definition: generally considered or reputed to be.
+  example: "the putative author of the book"
 
 expletive:
-noun
-an oath or swear word.
-"he was greeted by a stream of expletives"
+  part-of-speech: noun
+  definition: an oath or swear word.
+  example: "he was greeted by a stream of expletives"
 
 cesspool:
-noun
-an underground container for the temporary storage of liquid waste and sewage.
-a disgusting or corrupt place.
-"the town is not the cesspool you portrayed"
+  part-of-speech: noun
+  definition: |
+    an underground container for the temporary storage of liquid waste and sewage.
+    a disgusting or corrupt place.
+  example: "the town is not the cesspool you portrayed"
 
 fete:
-noun
-a public function, typically held outdoors and organized to raise funds for a charity, including entertainment and the sale of goods and refreshments.
-"a church fete"
+  part-of-speech: noun
+  definition: |
+    a public function, typically held outdoors and organized to raise funds for a charity,
+    including entertainment and the sale of goods and refreshments.
+  example: "a church fete"
 
 egalitarian:
-adjective
-believing in or based on the principle that all people are equal and deserve equal rights and opportunities.
-"a fairer, more egalitarian society"
+  part-of-speech: adjective
+  definition: |
+    believing in or based on the principle that all people are equal
+    and deserve equal rights and opportunities.
+  example: "a fairer, more egalitarian society"
 
 recumbent:
-adjective
-(especially of a person or effigy) lying down.
-"recumbent statues"
+  part-of-speech: adjective
+  definition: (especially of a person or effigy) lying down.
+  example: "recumbent statues"
 
 debacle:
-noun
-a sudden and ignominious failure; a fiasco.
-"the only man to reach double figures in the second-innings debacle"
+  part-of-speech: noun
+  definition: a sudden and ignominious failure; a fiasco.
+  example: "the only man to reach double figures in the second-innings debacle"
 
 penchant:
-noun
-a strong or habitual liking for something or tendency to do something.
-"he has a penchant for adopting stray dogs"
+  part-of-speech: noun
+  definition: a strong or habitual liking for something or tendency to do something.
+  example: "he has a penchant for adopting stray dogs"
 
 mirage:
-noun
-an optical illusion caused by atmospheric conditions,
-especially the appearance of a sheet of water in a desert
-or on a hot road caused by the refraction of light from the sky by heated air.
-"the surface of the road ahead rippled in the heat mirages"
+  part-of-speech: noun
+  definition: |
+    an optical illusion caused by atmospheric conditions,
+    especially the appearance of a sheet of water in a desert
+    or on a hot road caused by the refraction of light from the sky by heated air.
+  example: "the surface of the road ahead rippled in the heat mirages"
 
 intrepid:
-adjective
-fearless; adventurous (often used for rhetorical or humorous effect).
-"our intrepid reporter"
+  part-of-speech: adjective
+  definition: fearless; adventurous (often used for rhetorical or humorous effect).
+  example: "our intrepid reporter"
 
 ominous:
-adjective
-giving the worrying impression that something bad is going to happen; threateningly inauspicious.
-"there were ominous dark clouds gathering overhead"
+  part-of-speech: adjective
+  definition: |
+    giving the worrying impression that something bad is going to happen;
+    threateningly inauspicious.
+  example: "there were ominous dark clouds gathering overhead"
 
 prevarication:
-noun
-the fact of avoiding telling the truth or saying exactly what you think
-All my attempts to question the authorities on the subject were met by prevarication.
+  part-of-speech: noun
+  definition: the fact of avoiding telling the truth or saying exactly what you think
+  example: "All my attempts to question the authorities on the subject were met by prevarication."
 
 teem:
-verb
-be full of or swarming with.
-"every garden is teeming with wildlife"
+  part-of-speech: verb
+  definition: be full of or swarming with.
+  example: "every garden is teeming with wildlife"
 
 obsidian:
-noun
-a hard, dark, glasslike volcanic rock formed by the rapid solidification of lava without crystallization.
+  part-of-speech: noun
+  definition: |
+    a hard, dark, glasslike volcanic rock
+    formed by the rapid solidification of lava without crystallization.
+  example: ""
 
 abseil:
-verb
-descend a rock face or other near-vertical surface by using a doubled rope coiled round the body and fixed at a higher point.
-"team members had to abseil down sheer cliffs to reach the couple"
+  part-of-speech: verb
+  definition: |
+    descend a rock face or other near-vertical surface
+    by using a doubled rope coiled round the body and fixed at a higher point.
+  example: "team members had to abseil down sheer cliffs to reach the couple"
 
 sala:
-noun
-a living room.
-"my cousins and I gathered in the sala to say goodbye"
+  part-of-speech: noun
+  definition: a living room.
+  example: "my cousins and I gathered in the sala to say goodbye"
 
 despondent:
-adjective
-in low spirits from loss of hope or courage.
-"she grew more and more despondent"
+  part-of-speech: adjective
+  definition: in low spirits from loss of hope or courage.
+  example: "she grew more and more despondent"
 
 veneration:
-noun
-great respect; reverence.
-"the traditional veneration of saints"
+  part-of-speech: noun
+  definition: great respect; reverence.
+  example: "the traditional veneration of saints"
 
 autocratic:
-adjective
-relating to a ruler who has absolute power.
-"the constitutional reforms threatened his autocratic power"
+  part-of-speech: adjective
+  definition: relating to a ruler who has absolute power.
+  example: "the constitutional reforms threatened his autocratic power"
 
 inconspicuous:
-adjective
-not clearly visible or attracting attention.
-"an inconspicuous red-brick building"
+  part-of-speech: adjective
+  definition: not clearly visible or attracting attention.
+  example: "an inconspicuous red-brick building"
+
+rescind:
+  part-of-speech: verb
+  definition: revoke, cancel, or repeal (a law, order, or agreement).
+  example: ""
