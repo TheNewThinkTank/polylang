@@ -32,17 +32,20 @@ def save_data():
 
 
 def handle_answer(flashcard, correct):
-    """Award points for correct answer and update flashcard difficulty
+    """Award points for correct answer and update flashcard difficulty.
 
     :param flashcard: _description_
     :type flashcard: _type_
     :param correct: _description_
     :type correct: _type_
     """
+
     if correct:
-        flashcard['points'] += 10  # Award 10 points for correct answer
+        # Award points for correct answer
+        flashcard['points'] += 10
     else:
-        flashcard['points'] = max(0, flashcard['points'] - 5)  # Deduct 5 points for incorrect answer
+        # Deduct points for incorrect answer
+        flashcard['points'] = max(0, flashcard['points'] - 5)
 
     # Update flashcard difficulty based on points
     points = flashcard['points']
@@ -65,7 +68,11 @@ def get_flashcards(difficulty):
     :rtype: _type_
     """
 
-    res = [flashcard for flashcard in flashcards if flashcard['difficulty'] == difficulty]
+    res = [
+        flashcard
+        for flashcard in flashcards
+        if flashcard['difficulty'] == difficulty
+           ]
 
     pp(flashcards)
     print(difficulty)

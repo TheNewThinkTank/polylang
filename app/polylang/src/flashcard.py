@@ -24,11 +24,16 @@ lang_files = [
 # lang_choice = lang_options[1]
 
 parser = argparse.ArgumentParser(description='Language Learning Program')
-parser.add_argument('-l', '--language', type=str, help='Specify the language for practice (english / german)')
+parser.add_argument('-l',
+                    '--language',
+                    type=str,
+                    help='Specify the language for practice (english / german)'
+                    )
 args = parser.parse_args()
 lang_choice = args.language
 
-# lang_choice = os.environ["lang_choice"] # input("Specify the language for practice (english/french)")
+# lang_choice = os.environ["lang_choice"]
+## or: input("Specify the language for practice (english/french)")
 
 lang_file = f"app/polylang/assets/{lang_choice}/processed/{lang_files[-1]}.yml"
 

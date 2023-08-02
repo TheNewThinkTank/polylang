@@ -10,19 +10,21 @@ from pprint import pprint as pp
 
 import yaml
 
-# TODO: yaml key and values of "No" and "Yes" becomes bool. Add string casting to fix (example: spanish/raw/vocabulary.yml)
+# TODO: yaml key and values of "No" and "Yes" becomes bool.
+# Add string casting to fix (example: spanish/raw/vocabulary.yml)
+
 # TODO: handle single and double quotes
 # TODO: add pipe (|) before multiline strings
 # TODO: strip final dot from word definition and from word example
 
 
-def sort_lang_file(lang_file: str) -> dict:
+def sort_lang_file(lang_file: str):
     """Load language yaml file, sort content alphabetically, and strip newlines.
 
     :param lang_file: _description_
     :type lang_file: str
     :return: _description_
-    :rtype: dict
+    :rtype:
     """
 
     with open(lang_file, "r", encoding="utf-8") as rf:
@@ -40,7 +42,8 @@ def sort_lang_file(lang_file: str) -> dict:
             print(vv)
             # print(vv, type(vv))
 
-            # sorted_data[k][kk] = ''.join(vv.splitlines())  # vv.strip("\n")  # vv.removesuffix("\n")
+            # sorted_data[k][kk] = ''.join(vv.splitlines())
+            ## vv.strip("\n")  # vv.removesuffix("\n")
 
     # "part-of-speech"
     # "definition"
@@ -48,7 +51,7 @@ def sort_lang_file(lang_file: str) -> dict:
 
     # sorted_data =  {k.lower(): v for k, v in sorted_data.items()}
 
-    return # sorted_data
+    return  # sorted_data
 
 
 def write_sorted_to_file(lang_file: str, sorted_data: dict, out_file: str) -> None:
@@ -92,13 +95,13 @@ def main() -> None:
         "vocabulary",
     ]
 
-    lang_options = [
-        "english",
-        "french",
-        "german",
-        "spanish",
-        "mandarin",
-                ]
+    # lang_options = [
+    #     "english",
+    #     "french",
+    #     "german",
+    #     "spanish",
+    #     "mandarin",
+    #             ]
 
     # lang_choice = lang_options[1]
     parser = argparse.ArgumentParser(description='Language Learning Program')
@@ -115,9 +118,9 @@ def main() -> None:
     # print(f"{lang_file = }")
 
     sorted_data = sort_lang_file(lang_file)
-    # pp(sorted_data)
+    pp(sorted_data)
     # parts = lang_file.split('/')
-    # out_file = parts[0] + "/" + parts[1] + "/" + parts[2] + "/" + parts[3] + "/processed/" + parts[-1]
+    # out_file = "/".join(parts[:4]) + "/processed/" + parts[-1]
     # write_sorted_to_file(lang_file, sorted_data, out_file)
 
 

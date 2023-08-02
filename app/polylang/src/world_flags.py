@@ -1,10 +1,10 @@
 """_summary_
 """
 
-from tkinter import Tk, Label
-from PIL import Image, ImageTk
-from urllib.request import urlopen
-from io import BytesIO
+# from tkinter import Tk, Label
+# from PIL import Image, ImageTk
+# from urllib.request import urlopen
+# from io import BytesIO
 
 import cairosvg
 
@@ -22,6 +22,7 @@ def main() -> None:
     }
 
     url = URLs["england"]
+    print(url)
 
     # Convert SVG to PNG
     cairosvg.svg2png(url='path/to/file.svg', write_to='path/to/output.png'

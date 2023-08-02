@@ -57,7 +57,10 @@ class FlashcardGUI:
         self.result_label = tk.Label(master, text="")
         self.result_label.pack()
 
-        self.continue_button = tk.Button(master, text="Continue", command=self.new_flashcard)
+        self.continue_button = tk.Button(master,
+                                         text="Continue",
+                                         command=self.new_flashcard
+                                         )
         self.continue_button.pack()
 
         self.quit_button = tk.Button(master, text="Quit", command=master.quit)
@@ -83,8 +86,10 @@ class FlashcardGUI:
         if guess == self.word:
             self.result_label.config(text="Correct! Good job!", fg="green")
         else:
-            self.result_label.config(text=f"Sorry, the correct word is {self.word}.", fg="red")
-    
+            self.result_label.config(text=f"Sorry, the correct word is {self.word}.",
+                                     fg="red"
+                                     )
+
     # def __call__(self):
     # root = tk.Tk()
     # flashcard_gui = self(root)
@@ -105,12 +110,16 @@ def main() -> None:
     # lang_choice = input("Specify the language for practice (english/french)")
 
     parser = argparse.ArgumentParser(description='Language Learning Program')
-    parser.add_argument('-l', '--language', type=str, help='Specify the language for practice (english / german)')
+    parser.add_argument('-l',
+                        '--language',
+                        type=str,
+                        help='Specify the language for practice (english / german)'
+                        )
     args = parser.parse_args()
     lang_choice = args.language
 
     root = tk.Tk()
-    flashcard_gui = FlashcardGUI(lang_choice, root)
+    # flashcard_gui = FlashcardGUI(lang_choice, root)
     root.mainloop()
 
     print(f"Thank you for using the {lang_choice.title()} Flashcard Program!")
