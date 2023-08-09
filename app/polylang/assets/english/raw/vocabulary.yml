@@ -1258,3 +1258,8 @@ triumvirate:
     Pompey, and Crassus in 60 BC
     and ( the Second Triumvirate ) a coalition formed by Antony, Lepidus, and Octavian in 43 BC.
   example: ""
+
+veritable:
+  part-of-speech: adjective
+  definition: used for emphasis, often to qualify a metaphor.
+  example: "the early 1970s witnessed a veritable price explosion"
