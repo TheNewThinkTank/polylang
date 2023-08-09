@@ -1241,11 +1241,20 @@ rescind:
   example: ""
 
 poignant:
-adjective
-evoking a keen sense of sadness or regret.
-"a poignant reminder of the passing of time"
+  part-of-speech: adjective
+  definition: evoking a keen sense of sadness or regret.
+  example: "a poignant reminder of the passing of time"
 
 incredulity:
-noun
-the state of being unwilling or unable to believe something.
-"he stared down the street in incredulity"
+  part-of-speech: noun
+  definition: the state of being unwilling or unable to believe something.
+  example: "he stared down the street in incredulity"
+
+triumvirate:
+  part-of-speech: noun
+  definition: |
+    (in ancient Rome) a group of three men holding power,
+    in particular ( the First Triumvirate ) the unofficial coalition of Julius Caesar,
+    Pompey, and Crassus in 60 BC
+    and ( the Second Triumvirate ) a coalition formed by Antony, Lepidus, and Octavian in 43 BC.
+  example: ""
