@@ -1263,3 +1263,8 @@ veritable:
   part-of-speech: adjective
   definition: used for emphasis, often to qualify a metaphor.
   example: "the early 1970s witnessed a veritable price explosion"
+
+anthropomorphic:
+  part-of-speech: adjective
+  definition: relating to or characterized by anthropomorphism.
+  example: "explanations of animal behaviour in anthropomorphic terms"
