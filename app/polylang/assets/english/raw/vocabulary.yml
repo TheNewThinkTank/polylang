@@ -1268,3 +1268,8 @@ anthropomorphic:
   part-of-speech: adjective
   definition: relating to or characterized by anthropomorphism.
   example: "explanations of animal behaviour in anthropomorphic terms"
+
+deftness:
+  part-of-speech: noun
+  definition: the quality of being skilful, clever, or quick
+  example: "The device must be used only with the greatest care and deftness of touch"
