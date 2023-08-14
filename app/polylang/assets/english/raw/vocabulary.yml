@@ -1271,5 +1271,10 @@ anthropomorphic:
 
 deftness:
   part-of-speech: noun
-  definition: the quality of being skilful, clever, or quick
+  definition: the quality of being skilful, clever, or quick.
   example: "The device must be used only with the greatest care and deftness of touch"
+
+cataclysmic:
+  part-of-speech: adjective
+  definition: causing sudden and violent upheaval.
+  example: "a novel about a cataclysmic world war"
