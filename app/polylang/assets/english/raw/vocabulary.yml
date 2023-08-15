@@ -1278,3 +1278,20 @@ cataclysmic:
   part-of-speech: adjective
   definition: causing sudden and violent upheaval.
   example: "a novel about a cataclysmic world war"
+
+immaculate:
+  part-of-speech: adjective
+  definition: perfectly clean, neat, or tidy.
+  example: "an immaculate white suit"
+
+indulge:
+  part-of-speech: verb
+allow oneself to enjoy the pleasure of.
+"we indulged in a cream tea"
+allow (someone) to enjoy something desired.
+"a luxury service used to indulge the chief executive"
+
+behest:
+  part-of-speech: noun
+  definition: a person's orders or command.
+  example: "they had assembled at his behest"
