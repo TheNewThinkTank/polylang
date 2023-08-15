@@ -1286,10 +1286,10 @@ immaculate:
 
 indulge:
   part-of-speech: verb
-allow oneself to enjoy the pleasure of.
-"we indulged in a cream tea"
-allow (someone) to enjoy something desired.
-"a luxury service used to indulge the chief executive"
+  definition_1: allow oneself to enjoy the pleasure of.
+  example_1: "we indulged in a cream tea"
+  definition_2: allow (someone) to enjoy something desired.
+  example_2: "a luxury service used to indulge the chief executive"
 
 behest:
   part-of-speech: noun
