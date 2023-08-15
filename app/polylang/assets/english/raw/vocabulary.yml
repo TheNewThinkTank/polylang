@@ -1295,3 +1295,8 @@ behest:
   part-of-speech: noun
   definition: a person's orders or command.
   example: "they had assembled at his behest"
+
+neophyte:
+  part-of-speech: noun
+  definition: a person who is new to a subject or activity.
+  example: "four-day cooking classes are offered to neophytes and experts"
