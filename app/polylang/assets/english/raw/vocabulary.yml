@@ -1310,3 +1310,10 @@ irreverence:
   part-of-speech: noun
   definition: a lack of respect for people or things that are generally taken seriously.
   example: "an attitude of irreverence towards politicians"
+
+occlude:
+  part-of-speech: verb
+  definition_1: stop, close up, or obstruct (an opening, orifice, or passage).
+  example_1: "thick make-up can occlude the pores"
+  definition_2: hide or obscure from prominence or view.
+  example_2: "voices are completely occluded from participating in the debate"
