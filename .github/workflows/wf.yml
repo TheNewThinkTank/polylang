@@ -39,5 +39,8 @@ jobs:
           POETRY_VIRTUALENVS_IN_PROJECT: true
         if: steps.cache.outputs.cache-hit != 'true'
 
+      - name: run mypy
+        run: poetry run mypy .
+
       - name: Lint with ruff
         run: poetry run ruff --ignore=F401 .
