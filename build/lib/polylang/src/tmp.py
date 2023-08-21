@@ -1,6 +1,5 @@
-from typing import List
 from pydantic import BaseModel, validator
-import yaml
+# import yaml
 
 
 class Word(BaseModel):

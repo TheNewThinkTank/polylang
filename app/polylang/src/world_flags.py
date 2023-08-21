@@ -6,7 +6,7 @@
 # from urllib.request import urlopen
 # from io import BytesIO
 
-import cairosvg
+import cairosvg  # type: ignore
 
 
 def main() -> None:

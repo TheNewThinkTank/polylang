@@ -4,7 +4,7 @@
 import argparse
 # import os
 
-import yaml
+import yaml  # type: ignore
 
 lang_files = [
     "abbreviations",

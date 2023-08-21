@@ -1,7 +1,7 @@
 """_summary_
 """
 
-from pydantic import BaseModel, validator
+from pydantic import BaseModel, validator  # type: ignore
 
 
 class Word(BaseModel):

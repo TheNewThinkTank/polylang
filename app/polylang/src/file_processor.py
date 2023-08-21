@@ -8,7 +8,7 @@ python3 app/polylang/src/file_processor.py -l spanish
 import argparse
 from pprint import pprint as pp
 
-import yaml
+import yaml  # type: ignore
 
 # TODO: yaml key and values of "No" and "Yes" becomes bool.
 # Add string casting to fix (example: spanish/raw/vocabulary.yml)

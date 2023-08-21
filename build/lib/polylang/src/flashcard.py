@@ -1,7 +1,7 @@
 """_summary_
 """
 
-import yaml
+import yaml  # type: ignore
 
 lang_files = [
     "abbreviations",

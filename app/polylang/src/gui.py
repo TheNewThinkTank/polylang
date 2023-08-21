@@ -23,7 +23,7 @@ import random
 
 import tkinter as tk
 
-from flashcard import flashcards
+from flashcard import flashcards  # type: ignore
 # from mock_flashcards import mock_flashcards
 # flashcards = mock_flashcards
 

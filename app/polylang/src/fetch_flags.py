@@ -1,6 +1,6 @@
 
 # import cairosvg
-import requests
+import requests  # type: ignore
 
 
 def main() -> None:

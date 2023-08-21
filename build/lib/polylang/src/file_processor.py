@@ -2,7 +2,7 @@
 """
 
 from pprint import pprint as pp
-import yaml
+import yaml  # type: ignore
 
 # TODO: handle single and double quotes
 # TODO: add pipe (|) before multiline strings
