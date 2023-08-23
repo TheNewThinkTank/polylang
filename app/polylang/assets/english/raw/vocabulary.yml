@@ -1317,3 +1317,22 @@ occlude:
   example_1: "thick make-up can occlude the pores"
   definition_2: hide or obscure from prominence or view.
   example_2: "voices are completely occluded from participating in the debate"
+
+alliterative:
+  part-of-speech: adjective
+  definition: relating to or marked by alliteration.
+  example: "alliterative assonance such as 'sails of silver'"
+
+alliteration:
+  part-of-speech: noun
+  definition: the occurrence of the same letter or sound at the beginning of adjacent or closely connected words.
+  example: "the alliteration of 'sweet birds sang'"
+
+assonance:
+  part-of-speech: noun
+  definition: |
+    resemblance of sound between syllables of nearby words,
+    arising particularly from the rhyming of two or more stressed vowels,
+    but not consonants (e.g. sonnet, porridge ),
+    but also from the use of identical consonants with different vowels (e.g. killed, cold, culled ).
+  example: "the use of assonance throughout the poem creates the sound of despair"
