@@ -1343,8 +1343,9 @@ umpteen:
   example: "you need umpteen pieces of identification to cash a cheque"
 
 zwischenzug:
-  "intermediate move"
-  is a chess tactic in which a player,
-  instead of playing the expected move (commonly a recapture ),
-  first interposes another move posing an immediate threat that the opponent must answer,
-  and only then plays the expected move.
+  definition: |
+    "intermediate move"
+    is a chess tactic in which a player,
+    instead of playing the expected move (commonly a recapture ),
+    first interposes another move posing an immediate threat that the opponent must answer,
+    and only then plays the expected move.
