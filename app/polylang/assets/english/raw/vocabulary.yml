@@ -1349,3 +1349,13 @@ zwischenzug:
     instead of playing the expected move (commonly a recapture ),
     first interposes another move posing an immediate threat that the opponent must answer,
     and only then plays the expected move.
+
+prose:
+  part-of-speech: noun
+  definition: written or spoken language in its ordinary form, without metrical structure.
+  example: "a short story in prose"
+
+metrical:
+  part-of-speech: adjective
+  definition: relating to or composed in poetic metre.
+  example: "metrical translations of the Psalms"
