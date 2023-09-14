@@ -1371,26 +1371,26 @@ the part of a sentence or clause containing a verb and stating something about t
 "went home in John went home"
 
 dearth:
-noun
+  part-of-speech: noun
 a scarcity or lack of something.
 "there is a dearth of evidence"
 
 proliferate:
-verb
+  part-of-speech: verb
 increase rapidly in number; multiply.
 "the science fiction magazines which proliferated in the 1920s"
 
 abysmal:
-adjective
+  part-of-speech: adjective
 extremely bad; appalling.
 "the quality of her work is abysmal"
 
 abscond:
-verb
+  part-of-speech: verb
 leave hurriedly and secretly, typically to escape from custody or avoid arrest.
 "the barman absconded with a week's takings"
 
 foray:
-noun
+  part-of-speech: noun
 a sudden attack or incursion into enemy territory, especially to obtain something; a raid.
 "the garrison made a foray against Richard's camp"
