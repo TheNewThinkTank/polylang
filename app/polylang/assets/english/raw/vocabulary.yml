@@ -1397,7 +1397,9 @@ foray:
 
 onomatopoeia:
   part-of-speech: noun
-  definition: the formation of a word from a sound associated with what is named (e.g. cuckoo, sizzle ).
+  definition: |
+    the formation of a word from a sound associated with what is named
+    (e.g. cuckoo, sizzle).
   example: "a relatively large number of bird names arise by onomatopoeia"
 
 exculpation:
