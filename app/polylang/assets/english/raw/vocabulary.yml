@@ -1362,40 +1362,54 @@ metrical:
 
 disjunction:
   part-of-speech: noun
-a lack of correspondence or consistency.
-"there is a disjunction between the skills taught in education and those demanded in the labour market"
+  definition: a lack of correspondence or consistency.
+  example: "there is a disjunction between the skills taught in education and those demanded in the labour market"
 
 predicate:
   part-of-speech: noun
-the part of a sentence or clause containing a verb and stating something about the subject
-"went home in John went home"
+  definition: the part of a sentence or clause containing a verb and stating something about the subject
+  example: "went home in John went home"
 
 dearth:
   part-of-speech: noun
-a scarcity or lack of something.
-"there is a dearth of evidence"
+  definition: a scarcity or lack of something.
+  example: "there is a dearth of evidence"
 
 proliferate:
   part-of-speech: verb
-increase rapidly in number; multiply.
-"the science fiction magazines which proliferated in the 1920s"
+  definition: increase rapidly in number; multiply.
+  example: "the science fiction magazines which proliferated in the 1920s"
 
 abysmal:
   part-of-speech: adjective
-extremely bad; appalling.
-"the quality of her work is abysmal"
+  definition: extremely bad; appalling.
+  example: "the quality of her work is abysmal"
 
 abscond:
   part-of-speech: verb
-leave hurriedly and secretly, typically to escape from custody or avoid arrest.
-"the barman absconded with a week's takings"
+  definition: leave hurriedly and secretly, typically to escape from custody or avoid arrest.
+  example: "the barman absconded with a week's takings"
 
 foray:
   part-of-speech: noun
-a sudden attack or incursion into enemy territory, especially to obtain something; a raid.
-"the garrison made a foray against Richard's camp"
+  definition: a sudden attack or incursion into enemy territory, especially to obtain something; a raid.
+  example: "the garrison made a foray against Richard's camp"
 
 onomatopoeia:
-noun
-the formation of a word from a sound associated with what is named (e.g. cuckoo, sizzle ).
-"a relatively large number of bird names arise by onomatopoeia"
+  part-of-speech: noun
+  definition: the formation of a word from a sound associated with what is named (e.g. cuckoo, sizzle ).
+  example: "a relatively large number of bird names arise by onomatopoeia"
+
+exculpation:
+  part-of-speech: ""
+  definition: |
+    the act of freeing from guilt or blame.
+    type of forgiveness, pardon.
+    the act of excusing a mistake or offense.
+    a defense of some offensive behavior or some failure to keep a promise etc.
+  example: ""
+
+vernacular:
+  part-of-speech: noun
+  definition: the language or dialect spoken by the ordinary people in a particular country or region.
+  example: "he wrote in the vernacular to reach a larger audience"
