@@ -1417,11 +1417,11 @@ vernacular:
   example: "he wrote in the vernacular to reach a larger audience"
 
 capsize:
-verb
+  part-of-speech: verb
 (of a boat) be overturned in the water.
 "the craft capsized in heavy seas"
 
 acrimonious:
-adjective
+  part-of-speech: adjective
 (typically of speech or discussion) angry and bitter.
 "an acrimonious dispute about wages"
