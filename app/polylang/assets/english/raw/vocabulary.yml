@@ -1419,9 +1419,14 @@ vernacular:
 capsize:
   part-of-speech: verb
   definition: (of a boat) be overturned in the water.
-"the craft capsized in heavy seas"
+  example: "the craft capsized in heavy seas"
 
 acrimonious:
   part-of-speech: adjective
   definition: (typically of speech or discussion) angry and bitter.
-"an acrimonious dispute about wages"
+  example: "an acrimonious dispute about wages"
+
+latchkey:
+  part-of-speech: noun
+  definition: a key of an outer door of a house.
+  example: ""
