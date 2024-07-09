@@ -2,6 +2,9 @@
 <a href="https://pypi.org/project/polylang/">
 <img src="https://img.shields.io/pypi/v/polylang.svg">
 </a>
+<a href="https://github.com/TheNewThinkTank/msgspec/blob/main/LICENSE">
+<img src="https://img.shields.io/github/license/TheNewThinkTank/polylang.svg">
+</a>
 
 ![commit activity](https://img.shields.io/github/commit-activity/m/TheNewThinkTank/polylang)
 ![PyPI Downloads](https://img.shields.io/pypi/dm/polylang)
