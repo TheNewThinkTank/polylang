@@ -1,3 +1,8 @@
+
+<a href="https://pypi.org/project/polylang/">
+<img src="https://img.shields.io/pypi/v/polylang.svg">
+</a>
+
 ![commit activity](https://img.shields.io/github/commit-activity/m/TheNewThinkTank/polylang)
 ![PyPI Downloads](https://img.shields.io/pypi/dm/polylang)
 ![CI](https://github.com/TheNewThinkTank/polylang/actions/workflows/wf.yml/badge.svg)
