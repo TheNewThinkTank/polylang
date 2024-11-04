@@ -18,40 +18,41 @@ import yaml  # type: ignore
 # TODO: strip final dot from word definition and from word example
 
 
-def sort_lang_file(lang_file: str):
-    """Load language yaml file, sort content alphabetically, and strip newlines.
+# TODO: use file-convertion-tools package here
+# def sort_lang_file(lang_file: str):
+#     """Load language yaml file, sort content alphabetically, and strip newlines.
 
-    :param lang_file: _description_
-    :type lang_file: str
-    :return: _description_
-    :rtype:
-    """
+#     :param lang_file: _description_
+#     :type lang_file: str
+#     :return: _description_
+#     :rtype:
+#     """
 
-    with open(lang_file, "r", encoding="utf-8") as rf:
-        data = yaml.load(rf, Loader=yaml.SafeLoader)
+#     with open(lang_file, "r", encoding="utf-8") as rf:
+#         data = yaml.load(rf, Loader=yaml.SafeLoader)
 
-    pp(data)
+#     pp(data)
 
-    sorted_data = dict(sorted(data.items()))
+#     sorted_data = dict(sorted(data.items()))
 
-    for k, v in sorted_data.items():
-        # print(k)
-        # print(v.get("part-of-speech", "part-of-speech missing!"))
-        for kk, vv in v.items():
-            print(kk)
-            print(vv)
-            # print(vv, type(vv))
+#     for k, v in sorted_data.items():
+#         # print(k)
+#         # print(v.get("part-of-speech", "part-of-speech missing!"))
+#         for kk, vv in v.items():
+#             print(kk)
+#             print(vv)
+#             # print(vv, type(vv))
 
-            # sorted_data[k][kk] = ''.join(vv.splitlines())
-            ## vv.strip("\n")  # vv.removesuffix("\n")
+#             # sorted_data[k][kk] = ''.join(vv.splitlines())
+#             ## vv.strip("\n")  # vv.removesuffix("\n")
 
-    # "part-of-speech"
-    # "definition"
-    # "example"
+#     # "part-of-speech"
+#     # "definition"
+#     # "example"
 
-    # sorted_data =  {k.lower(): v for k, v in sorted_data.items()}
+#     # sorted_data =  {k.lower(): v for k, v in sorted_data.items()}
 
-    return  # sorted_data
+#     return  # sorted_data
 
 
 def write_sorted_to_file(lang_file: str, sorted_data: dict, out_file: str) -> None:

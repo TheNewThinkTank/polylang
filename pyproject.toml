@@ -15,6 +15,7 @@ ruff = "^0.0.280"
 mypy = "^1.4.1"
 # wily = "^1.24.2"
 # sphinx = "^7.1.1"
+file-convertion-tools = "^0.0.13"
 
 
 [build-system]
